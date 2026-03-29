@@ -1,0 +1,1239 @@
+CORPUS: Twin Cities Nonprofit Immigration Communication Study
+Study Period: October 1, 2025 – March 26, 2026
+Context: Operation Metro Surge + Operation PARRIS
+Format: Plain text, one unit per section, for NVivo/Atlas.ti import
+Generated: March 28, 2026
+
+KEY: Each unit begins with ===UNIT_ID=== and ends with ===END===
+Metadata line format: [FIELD: VALUE]
+Full verbatim text follows metadata block
+
+================================================================================
+
+===IIMN-FB-002===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2025-12-03]
+[Frame1: F5] [Frame2: F6] [Tone1: T6] [Tone2: T4] [TPUB: P5] [CTA: CTA5] [Role: R4]
+
+Yesterday, the president made some of his most incendiary and vitriolic remarks about the Somali community in Minnesota while his administration is purported to be planning a targeted Immigration and Customs Enforcement (ICE) operation against the community.
+The International Institute of Minnesota condemns the harmful rhetoric that is being used by those in power to dehumanize, vilify, and demean immigrants and refugees. While this is not the first instance of the president or his allies targeting immigrants, we know that their attempts to scapegoat entire communities are not based in fact and only sow division to further separate our nation.
+We also oppose the anti-immigration policy changes and immigration enforcement operations that have accompanied the persistent verbal attacks on New Americans by the president's administration.
+We stand with the Somali community, and all immigrants and refugees in Minnesota and across our country, and we are asking you to do the same.
+Please reach out to your elected officials and let them know you stand with immigrants and refugees and do not agree with the president and his administration's hateful rhetoric and policies targeting the Somali community.
+===END===
+
+===IIMN-FB-003===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2025-12-04 to 12-10]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+In light of reports indicating increased anti-immigration enforcement in the Twin Cities targeting the Somali community, we want to send a reminder to know your rights.
+These rights are GUARANTEED to all by the U.S. Constitution, regardless of immigration status.
+If you have questions about your immigration status, you should only talk to a qualified attorney or accredited representative.
+Find out more here: https://iimn.org/news/know-your-rights/
+===END===
+
+===IIMN-FB-004===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2025-12-03 to 12-05]
+[Frame1: F2] [Frame2: F6] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R4]
+[Note: Image-forward post. Image text is the primary content.]
+
+Post text: We support the Somali community in Minnesota and stand with all immigrants and refugees.
+
+Image text: I AM NOT GARBAGE
+I am a Somali Native
+I am a proud American
+I am a proud Minnesotan
+I am a father
+I am an aircraft mechanic
+I am a taxpayer
+I am a contributing member of my community
+
+Garbage created your local landfill
+Immigrants created America
+===END===
+
+===IIMN-FB-005===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2025-12-03 to 12-05]
+[Frame1: F2] [Frame2: F6] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R4]
+[Note: Second installment of I AM NOT GARBAGE campaign. Image text is primary content.]
+
+Post text: We support the Somali community in Minnesota and stand with all immigrants and refugees.
+
+Image text: I AM NOT GARBAGE
+I am from Somalia
+I am a proud Minnesotan
+I am a mother
+I am a child care worker
+I teach patience, kindness, and confidence
+I am a tax payer
+I strengthen our workforce and our communities
+
+Garbage created your local landfill
+Immigrants created America
+===END===
+
+===IIMN-FB-006===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-09 to 01-13]
+[Frame1: F4] [Frame2: F3] [Tone1: T1] [Tone2: T2] [TPUB: P1] [CTA: CTA0] [Role: R3]
+
+Attention Institute clients and students!
+Due to increased ICE activity in the Twin Cities, all classes and programs will be online through Friday, January 16.
+Your teacher or case manager will send you a Zoom link to join your class or appointment online.
+Thank you
+===END===
+
+===IIMN-FB-007===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-09 to 01-15]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA6] [Role: R6]
+
+Due to increased ICE activity in the Twin Cities, we encourage immigrants and refugees take these steps to keep you and your family safe:
+1. Update and secure your documents.
+2. Always carry copies of your immigration documentation, state ID or driver's license on you
+3. Make a family safety plan
+4. Choose a trusted family member or friend and make a Delegation of Parental Authority (DOPA)
+5. Learn what resources to contact if you or a loved one are detained
+6. Memorize a phone number you can call in case of detainment or an emergency
+7. Know your rights
+Learn more about your rights: https://iimn.org/news/know-your-rights/
+Learn more about family safety planning: https://iimn.org/news/family-safety-plan/
+Please like and share this post to help it reach New Americans in the metro area.
+===END===
+
+===IIMN-FB-008===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-01-23]
+[Frame1: F3] [Frame2: F6] [Tone1: T4] [Tone2: T5] [TPUB: P2] [CTA: CTA2] [Role: R2+R4]
+
+The International Institute of Minnesota stands in solidarity with all of the individuals, organizations, and businesses participating in the protests and strike today.
+We remain open today to support our immigrant and refugee clients and students.
+We respect the decisions of all who choose to strike, but if anyone is looking to support a small business while also helping immigrants and refugees in your community, visit any Parkway Pizza location after 4 pm tonight. They are donating 100% of their proceeds tonight to the Institute!
+This support will allow us to:
+- Expand our legal services and provide help to clients facing immigration emergencies
+- Conduct welfare checks and deliver groceries to families needing extra help
+- Continue our programs and services for New Americans working toward stability and success
+- Provide resources for our clients to know their rights and what to do if they are detained
+Thank you for standing with immigrants and refugees, Parkway Pizza MN
+===END===
+
+===IIMN-FB-009===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-01-23]
+[Frame1: F6] [Frame2: F3] [Tone1: T5] [Tone2: T4] [TPUB: P2] [CTA: CTA2] [Role: R4]
+
+We see you, thank you for showing up in solidarity with your immigrant and refugee neighbors today.
+Here are three ways you can support our clients, students, and their families.
+Learn more: https://iimn.org/donations/
+===END===
+
+===IIMN-FB-010===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-24 to 01-26]
+[Frame1: F2] [Frame2: F6] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R4]
+[Note: Image-forward post. Full text on image.]
+
+Minnesota mourns another tragic loss at the hands of federal agents following weeks of fear and pain unjustly inflicted on our immigrant communities.
+We know you are hurting, Minnesota, just as our immigrant communities suffer. Your sadness shows your care.
+Thank you for being there, and standing with us and our humanity.
+===END===
+
+===IIMN-FB-011===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-26 to 02-05]
+[Frame1: F6] [Frame2: F3] [Tone1: T5] [Tone2: T2] [TPUB: P5] [CTA: CTA0] [Role: R5]
+
+We are so grateful Senator Tina Smith visited our office last week to show solidarity with Minnesota's immigrant and refugee communities.
+Senator Smith stopped by to support the Institute's work helping New Americans as they face unprecedented challenges due to federal immigration enforcement in the metro area.
+Thank you for standing with immigrants and refugees, Senator Smith.
+===END===
+
+===IIMN-FB-012===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 02-10]
+[Frame1: F5] [Frame2: F7] [Tone1: T6] [Tone2: T4] [TPUB: P4] [CTA: CTA5] [Role: R5]
+
+Action Alert: Demand Congress end ICE operations in Minnesota
+Contact your federal elected officials today and ask for the removal of federal immigration agents from Minnesota! We have provided a sample script for you to use.
+Your voice matters more than ever before.
+For nearly two months, the Twin Cities metro area has been occupied by federal agents as a part of the Department of Homeland Security's Operation Metro Surge, costing taxpayers an estimated $18 million every week, according to North Star Policy Action. These operations are having a devastating impact on Minnesota's immigrant and refugee communities. They are not about protecting our communities from criminal actors, they are about terrifying immigrants and refugees and doing harm to Minnesota.
+Learn more: https://iimn.org/news/action-alert-ice/
+
+SAMPLE SCRIPT (image): "Hello. My name is [insert name], and as your constituent from [City/Town], I am asking you and your office to stand with immigrants and refugees by demanding the immediate end of Operations Metro Surge and PARRIS and the removal of federal agents from ICE (Immigration and Customs Enforcement) and CBP (Customs and Border Protection) from Minnesota. The occupation of federal agents in the Twin Cities metro area is not about protecting our communities from criminal actors, it is about terrifying our immigrant communities and doing harm to Minnesota. Everyone in our communities — citizens, immigrants, and refugees alike — deserves dignity, safety, and constitutional protections. Please, protect our communities by demanding ICE and CBP stop their campaign of terror and leave Minnesota."
+===END===
+
+===IIMN-FB-013===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-28 to 02-05]
+[Frame1: F3] [Frame2: F6] [Tone1: T5] [Tone2: T4] [TPUB: P3] [CTA: CTA3] [Role: R2+R4]
+
+Minnesota has endured an incredibly challenging month. As the Twin Cities experience an occupation of federal agents causing terror, intimidation, and fear, we have seen the community step up in ways that make us proud to call Minnesota our home.
+Over the last several weeks, the Institute has received an outpouring of support from community members looking to help their immigrant and refugee neighbors.
+Volunteers have packaged and delivered groceries to 900 Institute clients since January 12! Each bag includes essential foods, household and hygiene goods, information on know your rights, and words of encouragement and support!
+Thank you to everyone who has helped package and delivery groceries this month! We couldn't be more grateful for your support and for standing with immigrants and refugees during these difficult times.
+Your support matters.
+===END===
+
+===IIMN-FB-014===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-12 to 02-20]
+[Frame1: F5] [Frame2: F7] [Tone1: T6] [Tone2: T4] [TPUB: P4] [CTA: CTA5] [Role: R5]
+
+Action Alert: Demand Congress end ICE operations in Minnesota!
+Learn more: https://iimn.org/news/action-alert-ice/
+Perception may be that ICE activity is diminishing in the Twin Cities, but we know this is not true and federal agents are still waging a campaign of harassment and terror across our communities. These operations are having a devastating impact on Minnesota's immigrant and refugee communities. It is not about protecting our communities from criminal actors, it is about terrifying immigrants and refugees and doing harm to Minnesota.
+We are urging you to contact your federal elected officials today and demand the removal of federal immigration agents from Minnesota!
+We have provided a sample script for you to use.
+Your voice matters more than ever before.
+===END===
+
+===IIMN-FB-015===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-12 to 02-13]
+[Frame1: F3] [Frame2: F4] [Tone1: T2] [Tone2: T3] [TPUB: P1] [CTA: CTA1] [Role: R2+R3]
+
+The International Institute of Minnesota is relieved and cautiously optimistic about the announcement of the conclusion of Operation Metro Surge and the removal of thousands of federal immigration agents from the Twin Cities. Today, we are relying on the administration's words, but there is still cause for concern. The proof of this announced conclusion will be in the reality of what happens in our community.
+As we move forward, our immediate priority is those who are still detained. If you know someone who is still in detention, please contact our immigration intake line at (651) 377-8642 and leave a voicemail message and we will return your call.
+In the days, weeks, and months ahead, we must work together to repair the harm inflicted by this operation. Your continued support helps our students and clients regain safety, dignity, and stability that was lost.
+===END===
+
+===IIMN-FB-016===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-20 to 03-15]
+[Frame1: F3] [Frame2: F4] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+Minnesota continues to deal with the fallout from the monthslong federal immigration crackdown. Even though the number of agents in the state has dwindled, many immigrants in Minnesota say they remain fearful, that includes those who entered the country legally, and some on the path to citizenship.
+A longtime volunteer at the Institute who teaches our citizenship classes spoke on current changes in the citizenship exam.
+Learn more about our immigration services and citizenship classes here: https://iimn.org/program/citizenship-and-immigration/
+===END===
+
+===IIMN-FB-017===
+[Organization: International Institute of Minnesota (IIMN)]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-15]
+[Frame1: F3] [Frame2: F6] [Tone1: T5] [Tone2: T2] [TPUB: P6] [CTA: CTA2] [Role: R5]
+
+THANK YOU: We want to take the time to thank all the generous businesses and organizations who stepped up to help our New Americans during the heightened ICE activity in our state. Thanks to your contributions, we were able to expand our help to our clients in times of crisis.
+As our clients focus on recovery from the aftermath of Operation Metro Surge and Operation PARRIS, your ongoing support will continue to be essential.
+Read more on the help we received and how you can contribute.
+===END===
+
+================================================================================
+===ILCM-W-001===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Website]
+[Date: 2026-01-08]
+[Frame1: F5] [Frame2: F6] [Tone1: T6] [Tone2: T4] [TPUB: P1] [CTA: CTA7] [Role: R4]
+
+The Immigrant Law Center of Minnesota (ILCM) strongly condemns the horrific violence perpetuated by Immigration and Customs Enforcement (ICE) that continues to ripple across Minnesota. ICE is not making our state safer, and they have no place in our communities.
+Over a month ago, the federal government increased immigration enforcement in Minnesota using the racist pretense of fraud investigations targeting the Somali community. Recently, 2,000 additional ICE, Customs and Border Protection (CBP), and Homeland Security Investigations (HSI) agents were reportedly assigned to Minnesota to conduct immigration enforcement and fraud investigations. Communities across the state have been terrorized by masked, armed agents who are indiscriminately and aggressively harassing and kidnapping individuals at school, at work, on the streets, and in their homes.
+As immigration lawyers and advocates, we recognize this pattern of state violence perpetrated by government agencies. Over the past year, this has occurred in California, Illinois, Oregon, North Carolina, and Washington DC. The full-scale invasion of communities across the country represents a brash form of authoritarian fascism. The federal government has shown a willingness to completely disregard the law, trample people's legal rights, avoid accountability, and destroy anyone who stands in their way.
+In addition to tearing apart families and disappearing people, community supporters are being targeted for harassment and violence. Yesterday, ICE murdered Renee Nicole Good as she bravely bore witness to the assault on her neighbors in Minneapolis. We have seen blatant attempts by the federal government to spread misinformation about the shooting, specifically to spin the observer's actions as "domestic terrorism." These propagandized efforts attempt to criminalize community response to violent federal actions.
+ILCM demands justice and accountability for the murder of Renee Nicole Good. We will continue to defend the legal rights of immigrants and refugees and offer resources and legal services to protect and strengthen our communities. ICE has no place here.
+ILCM encourages neighbors to connect, mobilize, and stand together. If you personally witness ICE activity, you should report to any of these three rapid response lines:
+Immigrant Defense Network: 612-255-3112
+Monarca Rapid Response Line: 612-441-2881
+Minnesota Immigrant Rights Action Committee: miracmn@gmail.com
+===END===
+
+===ILCM-W-009===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Website]
+[Date: 2026-01-26]
+[Frame1: F5] [Frame2: F2] [Tone1: T6] [Tone2: T5] [TPUB: P5] [CTA: CTA2] [Role: R4]
+
+Last weekend, in their continued campaign of terror across the state, Immigration and Customs Enforcement (ICE) murdered another civilian, south Minneapolis resident Alex Pretti. The Immigrant Law Center of Minnesota (ILCM) condemns the second known fatal ICE shooting of a local community member this year. Both Pretti and Renee Good were murdered by the government for defending their neighbors against ICE violence in Minneapolis. ILCM also condemns the underlying violence of government surveillance, harassment, detention, and deportation of immigrants that preceded these execution-style murders and continues today.
+ICE has occupied Minnesota for almost two months, now. They have brought sheer terror to neighborhoods across the state, breaking down doors, arresting people in hospitals, tear gassing students, racially profiling and abducting people of color, and threatening anyone who stands in their way. This horror and violence may be new to some, but marginalized communities have experienced it since the founding of this country. The recent ICE murders of two Minnesotans exist in a long string of government killings of immigrants and people of color as part of a slow government campaign of ethnic cleansing that is now on our doorsteps.
+Communities across Minnesota have banded together to help vulnerable neighbors and bear witness to the ongoing horrors. ILCM encourages people to connect with those around them and donate to local direct assistance funds. We are stronger together.
+===END===
+
+===ADV-FB-009===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-07 to 01-28]
+[Frame1: F2] [Frame2: F5] [Tone1: T6] [Tone2: T4] [TPUB: P4] [CTA: CTA5] [Role: R1]
+
+When an agent of the government kills somebody, as the DHS has done in Minnesota, we must demand a prompt, impartial, and thorough investigation. The Minnesota Protocol on the Investigation of Potentially Unlawful Death, created by The Advocates in 1983, lays out the standards for investigations into state-involved killings. Read the protocol here: https://ow.ly/ctWa50Y5Jrm
+We all have a part to play when it comes to human rights, including holding governments accountable and demanding transparency and justice.
+===END===
+
+===ADV-FB-012===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-24]
+[Frame1: F2] [Frame2: F5] [Tone1: T5] [Tone2: T6] [TPUB: P4] [CTA: CTA5] [Role: R1]
+
+The Advocates for Human Rights is devastated by another extrajudicial killing in Minnesota. We call for a prompt, effective, independent, impartial, and transparent investigation into DHS's killing of a bystander, as required under international law. Such investigations are crucial not only to provide justice for those harmed, but are also a key part of preventing future extrajudicial killings. The federal government's refusal to investigate Renee Good's killing directly contributed to today's death.
+===END===
+
+===ADV-FB-014===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-07 to 01-20]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+When our rights are under attack, it's even more important to know what those rights are so you can assert them, document violations, and then pursue justice if they're violated. Learn what you can do when encountering ICE.
+If ICE is at your door:
+1. You have the right to keep your door closed and to remain silent.
+2. You have a right to ask to see a warrant signed by a judge.
+3. If ICE does not have a warrant signed by a judge, you can ask them to leave.
+If ICE stops you on the street:
+1. Remember, stay calm and ask, "Am I free to go?"
+2. If they say yes, walk away and say: "I do not want to answer any questions."
+3. If they say no, say: "I do not want to answer any questions. I want to speak to a lawyer."
+Learn more about our Know Your Rights materials on our website.
+===END===
+
+================================================================================
+[END OF CORPUS — Additional units will be appended as collection continues]
+[Units without full text captured are marked [FULL TEXT PENDING] in workbook]
+[For complete corpus with all units: see full_data_log.xlsx, Column 13]
+
+================================================================================
+# ILCM FACEBOOK UNITS
+================================================================================
+
+===ILCM-FB-001===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-03-25]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: NONE] [TPUB: P1+P5] [CTA: CTA1] [Role: R6]
+
+Visit LawHelpMN.org for comprehensive immigration legal assistance resources. Whether you are an immigrant, an observer, or just want to help a friend, coworker, or neighbor, you can find updated legal resources and guidance on a wide variety of immigration-related topics.
+===END===
+
+===ILCM-FB-002===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-03-15 to 03-25]
+[Frame1: F1] [Frame2: F4] [Tone1: T3] [Tone2: T1] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+Last year, the IRS agreed to share the addresses of immigrant taxpayers with DHS. Tax information had previously been among the most highly protected data. The National Immigrant Law Center has compiled a resource for immigrants on data privacy and taxes in English and Spanish.
+===END===
+
+===ILCM-FB-003===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-03-15 to 03-25]
+[Frame1: F2] [Frame2: F1] [Tone1: T3] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+Hundreds of young people who were granted protection from the US government due to abuse in their home countries are now being detained and deported. Special Immigrant Juvenile Status (SIJS) has existed as a legal pathway to residence since 1990. Most recipients of SIJS are protected from deportation by a policy called deferred action, due to a backlog of green card applications. Despite this, 265 young people with SIJS were detained, and 132 deported, last year.
+===END===
+
+===ILCM-FB-004===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-03-10 to 03-20]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R5+R6]
+[Note: Bilingual EN/ES. Coalition of 5 orgs. Carousel post.]
+
+The Immigration Hub hosts online immigration legal clinics for rural Minnesotans every second and fourth Wednesday of the month from 1:30-5:00pm. Meet virtually with an immigration lawyer for legal advice, help filling out forms, or referrals to other organizations.
+
+El Immigration Hub organiza clínicas legales de inmigración en línea para personas que viven en areas rurales de Minnesota el segundo y cuarto miércoles de cada mes, de 1:30 a 5:00 p. m. Reúnase virtualmente con un abogado de inmigración para recibir asesoría legal, ayuda para completar formularios o referencias a otras organizaciones.
+https://www.lawhelpmn.org/hub-immigration-legal-clinic
+
+[IMAGE: VIRTUAL IMMIGRATION LEGAL CLINICS FOR RURAL MINNESOTANS — Conducted by Immigration Hub partner organizations — Advice about your legal problem · On the spot help or a referral (ex. filling out short forms or calling immigration court) · Referrals to organizations that can give you more help — Second and Fourth Wednesdays, 1:30-5:00pm — First come first served via Zoom meeting — Partner logos: ILCM, SMRLS, VLN, Mid-Minnesota Legal Aid, The Advocates for Human Rights]
+===END===
+
+===ILCM-FB-005===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-03-01 to 03-20]
+[Frame1: F1] [Frame2: F7] [Tone1: T6] [Tone2: T3] [TPUB: P5+P4] [CTA: CTA0] [Role: R1]
+
+A proposed new DHS rule would effectively stop the issuance of new work permits for asylum seekers and eligibility. ILCM's Julia Decker commented that the rule is yet another instance of the federal government "trying to make it so difficult and so burdensome" that people don't apply. "It just continues to narrow and restrict...access for people in the immigration system."
+===END===
+
+===ILCM-FB-006===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-15]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ILCM's Julia Decker spoke to Bolts Magazine about the impact of local governments and communities on ICE activity. She described the rapid movement of ICE detainees out of state as "a runaway train."
+===END===
+
+===ILCM-FB-007===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-10]
+[Frame1: F5] [Frame2: F2] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ILCM's Julia Decker and St. Cloud State Professor Dr. Christopher Lehman discussed the parallels between Minnesota's historical tolerance for slavery and modern-day support of mass deportation. Decker noted that economic justifications for deportation along with exploitation of vulnerable populations for economic benefit are similarities of both eras. She also pointed out that the physical and emotional closeness brought by Operation Metro Surge has forced people to contend with realities that they used to be able to more easily ignore, shifting opinion.
+===END===
+
+===ILCM-FB-008===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-10]
+[Frame1: F1] [Frame2: F4] [Tone1: T3] [Tone2: T1] [TPUB: P1+P5] [CTA: CTA0] [Role: R6]
+
+The Administration is considering an executive order requiring banks to verify current and future customers' citizenship. If enacted, it would represent the latest plan to use private industry to enforce immigration policy.
+===END===
+
+===ILCM-FB-009===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-01]
+[Frame1: F2] [Frame2: F3] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Nurul Amin Shah Alam, a 56-year-old blind Rohingya refugee, was found dead outside after being abandoned by Border Patrol. Alam, who couldn't speak English, was left at a location he didn't know, miles away from his home, and his family and lawyer were never notified.
+===END===
+
+===ILCM-FB-010===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-20 to 02-10]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Throughout the course of Operation Metro Surge, countless people have been detained "despite showing documents proving active immigration cases, pending visas, or even US citizenship." ICE then confiscates immigration documents, in many cases refusing to return them upon release, and "essentially forcing [people] to walk around without this document that the government itself says [they] are supposed to carry with them," according to Julia Decker, policy director at ILCM.
+===END===
+
+===ILCM-FB-011===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-01]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+The Department of Homeland Security (DHS) is trying to unearth the identities of individuals behind anti-ICE accounts. They've sent subpoenas for account information to Google, Meta, Reddit, and Discord, among other tech corporations. Many times, the corporations will comply with the request. The ACLU and others have condemned this as an affront to free speech.
+===END===
+
+===ILCM-FB-012===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-10]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+The Administration has started investigating "voter fraud" by naturalized citizens, an accusation that "voting experts have consistently said...are wildly exaggerated [claims]." In an earlier interview with NBC, the President "threatened a federal takeover of some state elections" based on claims of illegal voting.
+===END===
+
+===ILCM-FB-013===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 02-15]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+ILCM's Know Your Rights - Ogow xuquuqdaada (Somali) video is available now on Youtube.
+===END===
+
+===ILCM-FB-014===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-10]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+The Department of Homeland Security (DHS) has pushed for the widespread use of the Systematic Alien Verification for Entitlements (SAVE), a federal tool that flags noncitizens on state voter rolls. However, the program's results are riddled with errors. Election officials in Missouri and Texas have raised serious concerns about its accuracy, with some areas reporting over a 50% rate of error.
+===END===
+
+===ILCM-FB-015===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-01]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ILCM's Julia Decker spoke to independent Mexican media outlet, Animal Politico, about the reality of legal representation for most immigrants detained in Minnesota. "This administration has made it quite clear that it wants to continue large-scale deportations of immigrants and refugees and reduce entry pathways for all immigration. There may be a change in the officials in charge, but I don't think we're likely to see much change in the harm being done to the community."
+===END===
+
+===ILCM-FB-016===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-10]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+NBC news writes that the Administration "has long been preoccupied with the notion of citizenship — who gets to be an American and who doesn't." The latest includes a push to denaturalize foreign-born citizens. Again, under the guise of addressing "fraud," the federal government has no specific criteria for what constitutes the alleged "fraud." They proclaim that they will investigate any case that they deem "sufficiently important to pursue," effectively a catch-all phrase.
+===END===
+
+===ILCM-FB-017===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-01]
+[Frame1: F1] [Frame2: F4] [Tone1: T6] [Tone2: T3] [TPUB: P1+P5] [CTA: CTA0] [Role: R1]
+
+A recent federal ruling agreed with the Administration's mandatory immigrant detention policy. It states that anyone who has entered the US without permission is not eligible for bond. Such policies have made it extremely difficult for immigrants to pursue legal action. "We are really at a disadvantage when people are sent out of state and are in another jurisdiction," ILCM policy director Julia Decker said. "The odds stack up."
+===END===
+
+===ILCM-FB-018===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 02-15]
+[Frame1: F2] [Frame2: F5] [Tone1: T6] [Tone2: NONE] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+ICE officers in Colorado left "death cards" in abductees' vehicles, a dehumanizing racist tradition of the US military in Vietnam.
+===END===
+
+===ILCM-FB-019===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-12 to 02-20]
+[Frame1: F5] [Frame2: F1] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ILCM's Julia Decker spoke to Salon about the supposed "drawdown" of federal troops from Minnesota and why communities aren't buying the announcement. Decker stated that people understand that "things don't change on a dime when it comes to state violence and the way that the state operates. And so this idea that somehow there could be a drawdown depending on certain contingencies has not been met with any sort of complacency on the part of most of the community."
+===END===
+
+===ILCM-FB-020===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-12 to 02-25]
+[Frame1: F4] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+Community members note a change in ICE's tactics, but no obvious decline in activity.
+===END===
+
+===ILCM-FB-021===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-25 to 02-10]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Local law enforcement agencies are considering negotiating with ICE to convince them to leave Minnesota. In the event of cooperation, ILCM's Julia Decker expressed skepticism that the federal government would allow for due process. "It's very unlikely that those folks [in federal detention] are going to be brought back to the county or the state for future hearings," Decker said.
+===END===
+
+===ILCM-FB-022===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA6] [Role: R6]
+[Note: ICE at [Location] series — Hospitals. Carousel. ~500 words. Longest FB post in corpus.]
+
+ICE at Hospitals
+Hospitals and medical facilities should be places where people feel safe to seek care and healing. Understanding legal boundaries is crucial to protecting patients and staff from ICE:
+PUBLIC vs PRIVATE SPACES
+ICE can access public areas (main lobbies, public waiting rooms, cafeterias, public restrooms, parking garages/lots, public hallways designated for visitor access) without a warrant. However, they CANNOT enter private spaces (patient rooms, Emergency Department treatment areas, ICU, NICU, operating rooms, nurses' stations, medical records departments, staff-only hallways, pharmacies, security rooms, on-call rooms) without a judicial warrant or explicit consent from management.
+WHAT DOCUMENTS MATTER?
+Judicial warrant (judge-signed with specific location, person, and action) = Valid
+Administrative warrants or ICE detainers = NOT enough
+Hospitals can always verify documentation with legal counsel before allowing entry to protected areas.
+INDIVIDUAL RIGHTS:
+• Right to remain silent and refuse to answer questions or discuss immigration status
+• Right to ask, "Am I being detained?" If the answer is no, you can leave
+• Decline to answer questions or be searched
+• Not required to show ID, answer questions, or leave service unless legally ordered
+• Right to remain silent and not answer questions without an attorney
+PATIENT RECORDS
+Per HIPAA, hospitals must not disclose patient identity or location, medical records, appointment schedules, admission/discharge info, immigration status, security camera footage.
+EMPLOYEE RECORDS
+ICE cannot demand immediate access to any employee records (such as personnel files, I-9 forms, copies of IDs, scheduled or timecards, payroll or tax records, security camera footage). Requests should be routed through the hospital's HR and Legal departments.
+STAFF RECOMMENDATIONS
+ICE is not allowed to question or detain workers without a judicial warrant. Frontline staff encountering ICE may say, "I'm not authorized to provide access or information. Please speak with hospital administration or our legal/privacy office." Administrators should not allow ICE in private areas. Document ICE agents and actions. Call legal counsel immediately. Patients in care should be permitted to complete their medical care. Hospital staff may state, "This patient is receiving care and cannot be interviewed or removed at this time."
+FOR ADMINISTRATORS
+Prepare now by designating a point person, training staff on valid documents, establishing clear protocols, and documenting all ICE interactions thoroughly.
+Knowledge protects everyone. Share this information to help keep our communities informed
+===END===
+
+===ILCM-FB-023===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA6] [Role: R6]
+[Note: ICE at [Location] series — Stores. Carousel.]
+
+ICE at Stores
+Understanding what ICE can and cannot legally do is crucial for store guests and employees. Here's what store workers, managers, and owners should know:
+PUBLIC vs PRIVATE SPACES
+ICE can access public areas (sales floor, checkout areas, customer service desk, public restrooms, entrances/exits, parking lots/sidewalks) without a warrant. However, they CANNOT enter private spaces (stockrooms, back offices, employee-only hallways, security rooms, loss-prevention offices, break rooms, closed storage areas, employee locker rooms) without a judicial warrant or explicit consent from management.
+WHAT DOCUMENTS MATTER?
+Judicial warrant (judge-signed with specific location, person, and action) = Valid
+Administrative warrants or ICE detainers = NOT enough
+Stores can always verify documentation with legal counsel before allowing entry to protected areas.
+INDIVIDUAL RIGHTS:
+• Right to remain silent and refuse to answer questions or discuss immigration status
+• Right to ask, "Am I being detained?" If the answer is no, you can leave
+• Decline to answer questions or be searched
+• Not required to show ID, answer questions, or leave service unless legally ordered
+• Right to remain silent and not answer questions without an attorney
+EMPLOYEE AND STORE RECORDS
+ICE cannot demand immediate access to any employee records (such as personnel files, I-9 forms, copies of IDs, scheduled or timecards, payroll or tax records, security camera footage). They must provide a Notice of Inspection for I-9 audits.
+STAFF RECOMMENDATIONS
+ICE is not allowed to question or detain workers without a judicial warrant. Employees encountering ICE may say, "I'm not authorized to provide access or information. Please speak with the manager or owner." Management should not allow ICE in private areas. Document ICE agents and actions. Call legal counsel immediately.
+FOR MANAGERS
+Prepare now by designating a point person, training staff on valid documents, establishing clear protocols, and documenting all ICE interactions thoroughly.
+Knowledge protects everyone. Share this information to help keep our communities informed
+Swipe through for the complete guide
+===END===
+
+===ILCM-FB-024===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA6] [Role: R6]
+[Note: ICE at [Location] series — Restaurants. Carousel.]
+
+ICE at Restaurants
+Understanding what ICE can and cannot legally do is crucial for restaurant patrons and employees. Here's what restaurant workers, managers, and owners should know:
+PUBLIC vs PRIVATE SPACES
+ICE can access public areas (dining area, bar, waiting area, public restrooms, patios, parking lots/sidewalks) without a warrant. However, they CANNOT enter private spaces (kitchen/food prep areas, behind the bar, offices, storage rooms, employee-only hallways, staff break rooms, basements, closed event spaces) without a judicial warrant or explicit consent from management.
+WHAT DOCUMENTS MATTER?
+Judicial warrant (judge-signed with specific location, person, and action) = Valid
+Administrative warrants or ICE detainers = NOT enough
+Restaurants can always verify documentation with legal counsel before allowing entry to protected areas.
+INDIVIDUAL RIGHTS:
+• Right to remain silent and refuse to answer questions or discuss immigration status
+• Right to ask, "Am I being detained?" If the answer is no, you can leave
+• Decline to answer questions or be searched
+• Not required to show ID, answer questions, or leave service unless legally ordered
+• Right to remain silent and not answer questions without an attorney
+EMPLOYEE RECORDS
+ICE cannot demand immediate access to any employee records (such as personnel files, I-9 forms, copies of IDs, schedules or timecards, payroll or tax records, security camera footage). They must provide a Notice of Inspection for I-9 audits.
+EMPLOYEE RECOMMENDATIONS
+ICE is not allowed to question or detain workers without a judicial warrant. Front of house staff encountering ICE may say, "I'm not authorized to provide access or information. Please speak with the manager or owner." Management should not allow ICE in private areas. Document ICE agents and actions. Call legal counsel immediately.
+FOR MANAGERS
+Prepare now by designating a point person, training staff on valid documents, establishing clear protocols, and documenting all ICE interactions thoroughly.
+Knowledge protects everyone. Share this information to help keep our communities informed
+Swipe through for the complete guide
+===END===
+
+===ILCM-FB-025===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA6] [Role: R6]
+[Note: ICE at [Location] series — Churches. Carousel. Only post in series citing Fourth Amendment by name.]
+
+ICE at Churches: Know Your Rights
+Faith communities are sacred spaces where people should feel safe to worship, seek counsel, and gather. Understanding the legal boundaries of ICE access to church property is essential for protecting congregants and upholding religious freedom.
+PUBLIC vs. PRIVATE SPACES
+ICE can access public areas (parking lots, sanctuary during open services, fellowship halls) without a warrant. However, private spaces (offices, counseling rooms, classrooms, and residential areas) are protected under the Fourth Amendment and require a judicial warrant signed by a federal judge or explicit permission from church leadership.
+WHAT DOCUMENTS MATTER?
+Judicial warrant (judge-signed with specific location, person, and action) = Valid
+Administrative warrants or ICE detainers = NOT enough
+Churches can always verify documentation with legal counsel before allowing entry to protected areas.
+INDIVIDUAL RIGHTS:
+• Right to remain silent and refuse to answer questions or discuss immigration status
+• Right to ask "Am I being detained?" If the answer is no, you can leave
+• Right to see a valid warrant before complying
+• Not required to show ID or leave service unless legally ordered
+CHURCH RECORDS ARE PROTECTED
+Do NOT provide membership rolls, attendance logs, counseling notes, donation records, or surveillance footage without proper legal documents (subpoena, court order, or judicial warrant).
+FOR CHURCH ADMINISTRATORS
+Start preparing now. Create written policies, designate authorized contacts, train staff, and protect congregant data.
+Share to help keep our communities of faith informed and protected.
+Knowledge protects everyone. Share this information to help keep our communities informed
+Swipe through for the complete guide
+===END===
+
+===ILCM-FB-026===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F3] [Tone1: T3] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA6] [Role: R6]
+[Note: ICE at [Location] series — Schools. Carousel.]
+
+ICE at Schools: What You Need to Know
+Understanding what ICE can and cannot legally do is crucial for protecting students and families. Here's what schools should know:
+PUBLIC vs. PROTECTED SPACES
+ICE agents can access public areas (parking lots, sidewalks, playgrounds) without a warrant. However, they CANNOT enter private areas (classrooms, offices, hallways, or other non-public areas) unless they have a valid judicial warrant signed by a federal judge or the school administrator gives explicit permission.
+WHAT DOCUMENTS MATTER?
+Judicial warrant (signed by a judge) = Valid for entry
+Administrative warrants, ICE detainers, or verbal requests = NOT enough
+Schools can always verify documentation with legal counsel before allowing entry to protected areas.
+INDIVIDUAL RIGHTS
+• Right to remain silent and refuse to answer questions or discuss immigration status
+• Right to request a lawyer
+• Right to ask, "Am I being detained?" If the answer is no, you can leave
+• Parental consent for a student to be questioned or asked to leave is generally required unless a judicial warrant specifies otherwise
+STAFF RECOMMENDATIONS
+ICE is not allowed to question or detain students or staff without a judicial warrant. Staff members encountering ICE may say, "I'm not authorized to provide access or information. Please speak with the school administrator." Staff should not allow ICE in private areas. Document ICE agents and actions. Call legal counsel immediately.
+SCHOOL ADMINISTRATORS
+Prepare now by designating a point person, training staff on valid documents, establishing clear protocols, and documenting all ICE interactions thoroughly.
+Knowledge protects everyone. Share this information to help keep our communities informed
+===END===
+
+===ILCM-FB-027===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 02-01]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ILCM's Julia Decker spoke to Eden Prairie Local News about what ICE is legally allowed to do and the violations and limitations of such parameters. Regarding the Minnesota AG's lawsuit against DHS, Decker commented that even if a ruling came out prohibiting certain actions by ICE agents, it may not go into effect right away. And "even if it does, is there really any way to enforce that ... and what happens if those agents don't abide by that ruling?" Speaking on people's right to refuse entry if not presented with a valid judicial warrant, Decker remarked, "You can ask for a warrant. You can say if they don't have one, you're not going to open the door for them. Maybe they go away, but maybe they kick down your door anyway."
+===END===
+
+===ILCM-FB-028===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 02-01]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: NONE] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+The people of Minnesota and across the globe have witnessed the blatant lies of DHS and the federal government, as they attempt to manufacture narratives that clearly contradict reality. ILCM's Julia Decker noted that the out-of-state transfers of detainees is an intentional attempt to strip immigrants of the ability to get legal advice.
+===END===
+
+===ILCM-FB-029===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 01-28]
+[Frame1: F2] [Frame2: F3] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+ICE detainees being held at the Whipple federal building are facing horrendous, inhumane conditions. Hundreds of witnesses spoke to the Star Tribune about lack of food, water, access to medical care, bathrooms, and phones. Immigrants and citizens are separated from each other, held in crowded cells for an indeterminate amount of time, and released out into the cold, often without their possessions or any way to get home. ILCM's Julia Decker called the conditions "no surprise," given that Whipple is not designed to be a long-term detention facility.
+===END===
+
+===ILCM-FB-030===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-18 to 01-28]
+[Frame1: F5] [Frame2: F6] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Tom Homan has taken over "Operation Metro Surge" with hopes of striking a deal with Governor Walz and Minneapolis Mayor Jacob Frey. The violent occupation and lack of city/state support of residents have sown deep distrust of federal and state officials. "Given how violent things have been and how awful the situation has gotten, people are not going to just immediately want to turn around and trust anything that is said by the federal government," remarked ILCM's Julia Decker.
+===END===
+
+===ILCM-FB-031===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F6] [Frame2: F3] [Tone1: T4] [Tone2: T2] [TPUB: P2+P5] [CTA: CTA2+CTA6] [Role: R5]
+[Note: Exceeded 30-post cap — included per protocol decision. Only R5 unit in ILCM corpus.]
+
+Support our Partners and Local Direct Assistance Funds
+While our organization has been generously resourced by people like you, there are many rapid response, mutual aid, and other legal services organizations that could use support. If you are looking for other Minnesota-based efforts, please donate to our partners and local direct assistance.
+Rapid Response:
+Immigrant Defense Network @immigrantdefensenetwork on IG
+UNIDOS (Monarca) @monarca.minn on IG
+MN Ice Watch @mnicewatch on IG
+Mutual Aid and Direct Assistance:
+Visit the Stand With Minnesota directory to find local funds to support www.standwithminnesota.com
+Immigrant Legal Services:
+Advocates for Human Rights
+Arrive Ministries
+International Institute of MN
+Mid-MN Legal Aid MN
+Council of Churches
+Southern MN Regional Legal Services
+Volunteer Lawyers Network
+===END===
+
+===ILCM-FB-032===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F5] [Frame2: F2] [Tone1: T6] [Tone2: NONE] [TPUB: P5] [CTA: CTA0] [Role: R6]
+[Note: Exceeded 30-post cap — included per protocol decision.]
+
+Fort Snelling is now being used to house federal agents, vehicles, aircraft, and weapons. DHS and ICE already use the former military base as a field office and detention processing center. Fort Snelling has a long history of violence, including being used as a concentration camp for Dakota women, children, and elderly.
+===END===
+
+===ILCM-FB-033===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-20]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+[Note: Exceeded 30-post cap — included per protocol decision.]
+
+ICE attempted to enter the Ecuadorian consulate in Minneapolis last week. Staff prohibited ICE from entering.
+===END===
+
+===ILCM-FB-034===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-20]
+[Frame1: F2] [Frame2: F1] [Tone1: T6] [Tone2: T5] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+Christian Molina, a US citizen, was racially profiled and rammed by an ICE vehicle while driving in South Minneapolis. Agents surrounded him and demanded his papers while neighbors gathered to express their support for Molina.
+===END===
+
+===ILCM-FB-035===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-20]
+[Frame1: F1] [Frame2: F2] [Tone1: T6] [Tone2: T5] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+Two US citizens arrested for observing ICE in their neighborhood spoke to Sahan Journal about their experience and the inhumane conditions at the Whipple Federal Building where people are being detained.
+===END===
+
+===ILCM-FB-036===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-14 to 01-16]
+[Frame1: F2] [Frame2: F6] [Tone1: T5] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+ICE agents shot and wounded a Venezuelan man in North Minneapolis, one week after they murdered Renee Good in South Minneapolis. As shots rang out during a foot chase, neighbors came out of their homes. They expressed a sense of duty to respond to ICE "terrorizing our communities." One witness remarked, "I feel like these shootings are happening because Minneapolis and Minnesota are fighting back." Another said, "We shouldn't have to come out here, especially when we got children, families. Shouldn't nobody have to go through this sadness." As a crowd gathered, angry at yet another ICE shooting, agents deployed tear gas and flash bangs.
+===END===
+
+===ILCM-FB-037===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-26]
+[Frame1: F5] [Frame2: F2] [Tone1: T6] [Tone2: T5] [TPUB: P5] [CTA: CTA2] [Role: R4]
+[Note: Cross-platform unit — FB version of ILCM-W-009. Comments limited by ILCM.]
+
+Last weekend, in their continued campaign of terror across the state, Immigration and Customs Enforcement (ICE) murdered another civilian, south Minneapolis resident Alex Pretti. The Immigrant Law Center of Minnesota (ILCM) condemns the second known fatal ICE shooting of a local community member this year. Both Pretti and Renee Good were murdered by the government for defending their neighbors against ICE violence in Minneapolis. ILCM also condemns the underlying violence of government surveillance, harassment, detention, and deportation of immigrants that preceded these execution-style murders and continues today.
+ICE has occupied Minnesota for almost two months, now. They have brought sheer terror to neighborhoods across the state, breaking down doors, arresting people in hospitals, tear gassing students, racially profiling and abducting people of color, and threatening anyone who stands in their way. This horror and violence may be new to some, but marginalized communities have experienced it since the founding of this country. The recent ICE murders of two Minnesotans exist in a long string of government killings of immigrants and people of color as part of a slow government campaign of ethnic cleansing that is now on our doorsteps.
+Communities across Minnesota have banded together to help vulnerable neighbors and bear witness to the ongoing horrors. ILCM encourages people to connect with those around them and donate to local direct assistance funds. We are stronger together.
+===END===
+
+===ILCM-FB-038===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-22 to 01-23]
+[Frame1: F5] [Frame2: F6] [Tone1: T6] [Tone2: T4] [TPUB: P5] [CTA: CTA4] [Role: R4]
+[Note: Cross-platform unit — FB version of ILCM-W-008. Comments limited by ILCM. Full text in ILCM-W-008.]
+
+The Immigrant Law Center of Minnesota (ILCM) supports the ICE Out of Minnesota movement on Friday, January 23, 2026 and encourages all Minnesotans to participate in a day… [See more — full text captured in ILCM-W-008]
+===END===
+
+===ILCM-FB-039===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 01-25]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P6] [CTA: CTA0] [Role: R1]
+
+What appears to be a watch list of immigration attorneys was discovered in the depths of ICE's website. It has since been deleted without explanation but raises alarms… [Link: Attorney uncovers 'ICE watch list' of prominent US immigration lawyers — borderreport.com]
+===END===
+
+===ILCM-FB-040===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-25]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+The administration has fired scores of immigration judges and attempted to replace them with those more likely to adhere to a hardline immigration agenda. The effect is that 90 percent of asylum cases have been denied under the newly installed military judges. One judge who defied such expectation was swiftly fired. Immigration judges, once thought to be impartial arbiters, have been redesigned as "a rubber stamp in a robe for the White House's mass deportation goals."
+===END===
+
+===ILCM-FB-041===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-10 to 01-20]
+[Frame1: F1] [Frame2: F6] [Tone1: T6] [Tone2: T4] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Minnesotans across the state are opposing ICE activities and propaganda. ILCM policy director, Julia Decker, said, "The reality is that many folks who are being swept up in immigration enforcement actions do not have any type of criminal record." Instead, people are being targeted with warrantless arrest and racial profiling, according to University of Michigan professor William Lopez. Each locale has confronted ICE differently, but Lopez anticipates the cold will play a factor in Minnesota: "When it comes to a battle of the cold, Minnesotans are going to beat anybody."
+===END===
+
+===ILCM-FB-042===
+[Organization: Immigrant Law Center of Minnesota (ILCM)]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-05 to 01-20]
+[Frame1: F1] [Frame2: F5] [Tone1: T6] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R6]
+
+The ACLU of Minnesota and pro bono partner Maslon LLP are suing Freeborn County for illegal use of 287(g) program. Such programs effectively turn local law enforcement into immigration agents. The lawsuit alleges that many local agencies participating in the 287(g) program have violated the Minnesota constitution by holding individuals for ICE after they have been released from state custody and conducting civil immigration arrests.
+===END===
+
+================================================================================
+# ADV FACEBOOK UNITS
+================================================================================
+
+===ADV-FB-001===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 02-20]
+[Frame1: F5] [Frame2: F7] [Tone1: T3] [Tone2: T4] [TPUB: P5+P4] [CTA: CTA0] [Role: R5]
+[Note: Headline only captured — full post text not retrieved]
+
+Governor Walz Establishes Council to Document the Impacts of Operation Metro Surge
+===END===
+
+===ADV-FB-002===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-03-01 to 03-26]
+[Frame1: F1] [Frame2: F6] [Tone1: T5] [Tone2: T4] [TPUB: P2+P5] [CTA: CTA2] [Role: R5]
+
+Thank you Pizza Luce for supporting the important efforts of this collective of legal service providers (including The Advocates), law school clinics, and pro bono law firms!
+
+[IMAGE: HERE FOR OUR NEIGHBORS at Pizza Lucé Seward — Minnesota Habeas Project — Share The Love: Thru 3/31 — Mention "Minnesota Habeas Project" NOW through 3/31 and we'll donate 20% of your Dine-In order to Minnesota Habeas Project.]
+===END===
+
+===ADV-FB-003===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-15]
+[Frame1: F2] [Frame2: F5] [Tone1: T6] [Tone2: T4] [TPUB: P4+P5] [CTA: CTA0] [Role: R1]
+
+The Advocates testified at the People's Hearing on Immigration Enforcement, highlighting the human rights violations of Operation Metro Surge and calling for an immigration system grounded in human rights.
+===END===
+
+===ADV-FB-004===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-02-27]
+[Frame1: F2] [Frame2: F1] [Tone1: T2] [Tone2: T6] [TPUB: P5] [CTA: CTA0] [Role: R1]
+[Note: Cross-platform unit — FB companion to ADV-W-004. Platform comparison: FB leads with human dignity quote; website leads with legal mechanics.]
+
+"Refugees are valuable members of our community who have the right to live in safety and peace," said Michele Garnett McKenzie, Executive Director, The Advocates for Human Rights. "We are grateful to the court for recognizing their right to be free of this illegal and unjust persecution from the federal government."
+===END===
+
+===ADV-FB-005===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-02-12]
+[Frame1: F1] [Frame2: F2] [Tone1: T2] [Tone2: T1] [TPUB: P5] [CTA: CTA2] [Role: R1]
+[Note: Cross-platform unit — FB companion to ADV-W-003.]
+
+Huge Update: A federal judge today issued a temporary restraining order requiring the U.S. Department of Homeland Security (DHS) and Immigration and Customs Enforcement (ICE) to immediately restore meaningful access to lawyers for people detained in Minnesota. Read more here: https://www.theadvocatesforhumanrights.org/News/A/Index...
+===END===
+
+===ADV-FB-006===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-02-11 to 02-12]
+[Frame1: F1] [Frame2: F2] [Tone1: T1] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R1]
+
+Today, we expect a ruling in our case challenging the administration's practice of holding people at the Whipple Federal Building without allowing confidential communication with counsel. Our attorneys visited the facility on Monday to see conditions for themselves. See what they said in their own words.
+===END===
+
+===ADV-FB-007===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-28 to 02-05]
+[Frame1: F2] [Frame2: F5] [Tone1: T5] [Tone2: T6] [TPUB: P4+P5] [CTA: CTA0] [Role: R5]
+
+Thank you to Attorney General Ellison for supporting our lawsuit against Operation PARRIS with your amicus brief filed yesterday. We appreciate your powerful words: "The reign of terror and violence that DHS is inflicting on refugees in Minnesota is often painfully reminiscent of the conditions those refugees fled when coming to our state."
+===END===
+
+===ADV-FB-008===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-02-05 to 02-10]
+[Frame1: F1] [Frame2: F2] [Tone1: T3] [Tone2: T2] [TPUB: P1+P5] [CTA: CTA0] [Role: R1]
+
+Update on our court case: The government asked the court to dissolve the Temporary Restraining Order (TRO) preventing the Trump administration from arresting and detaining lawfully resettled refugees in Minnesota under Operation PARRIS, and the judge held a hearing on February 4 and should release their decision soon.
+For now, the TRO remains in place until February 25, and a hearing will take place on February 19 to consider a Preliminary Injunction that would protect Minnesota refugees from being arrested and detained for the duration of the case.
+After plaintiffs filed a non-compliance motion on January 28, the government subsequently released nearly every detained class member.
+===END===
+
+===ADV-FB-009===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-07 to 01-28]
+[Frame1: F2] [Frame2: F5] [Tone1: T6] [Tone2: T4] [TPUB: P4+P5] [CTA: CTA5] [Role: R1]
+
+When an agent of the government kills somebody, as the DHS has done in Minnesota, we must demand a prompt, impartial, and thorough investigation. The Minnesota Protocol on the Investigation of Potentially Unlawful Death, created by The Advocates in 1983, lays out the standards for investigations into state-involved killings. Read the protocol here: https://ow.ly/ctWa50Y5Jrm
+We all have a part to play when it comes to human rights, including holding governments accountable and demanding transparency and justice.
+===END===
+
+===ADV-FB-010===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-20 to 02-10]
+[Frame1: F5] [Frame2: F7] [Tone1: T6] [Tone2: T4] [TPUB: P4] [CTA: CTA5] [Role: R1]
+
+Funding for DHS is back in the House. Keep up the pressure! Tell your representatives to hold our government accountable. Take action here: https://ow.ly/E05K50Y7KmA
+
+[IMAGE: DHS FUNDING IS BACK IN THE HOUSE. / Tell your Representatives: / Hold our government accountable / No blank checks for DHS violence — protest photo showing signs: "ICE — INHUMANE CRUEL EVIL" and "ABOLISH ICE"]
+===END===
+
+===ADV-FB-011===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-28]
+[Frame1: F1] [Frame2: F2] [Tone1: T2] [Tone2: T1] [TPUB: P1+P5] [CTA: CTA0] [Role: R1]
+
+A federal judge just granted a temporary restraining order stopping ICE from arresting refugees in Minnesota and ordering the release of those currently detained. This is a huge win for ICE accountability. Learn more: https://www.theadvocatesforhumanrights.org/News/A/Index...
+===END===
+
+===ADV-FB-012===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-24]
+[Frame1: F2] [Frame2: F5] [Tone1: T5] [Tone2: T6] [TPUB: P4+P5] [CTA: CTA5] [Role: R1]
+
+The Advocates for Human Rights is devastated by another extrajudicial killing in Minnesota. We call for a prompt, effective, independent, impartial, and transparent investigation into DHS's killing of a bystander, as required under international law. Such investigations are crucial not only to provide justice for those harmed, but are also a key part of preventing future extrajudicial killings. The federal government's refusal to investigate Renee Good's killing directly contributed to today's death.
+===END===
+
+===ADV-FB-013===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: 2026-01-27 to 01-28]
+[Frame1: F1] [Frame2: F2] [Tone1: T6] [Tone2: T3] [TPUB: P1+P5] [CTA: CTA0] [Role: R1+R5]
+[Note: Cross-platform unit — FB companion to ADV-W-002.]
+
+Last night, a group of refugees represented by the International Refugee Assistance Project (IRAP), Berger Montague, and the Center for Human Rights and Constitutional Law (CHRCL) filed a federal class action lawsuit challenging the illegal arrest and imprisonment of resettled refugees in Minnesota. Individual plaintiffs are lawfully resettled refugees who are not yet legal permanent residents. Many did apply for their green cards, but have been unable to receive them due to the Trump administration's suspension of processing for refugees' applications and long-standing processing delays. The Advocates for Human Rights, a non-profit providing on-the-ground legal representation to impacted refugees in Minnesota, is an organizational plaintiff.
+Learn more and read the complaint here: [link]
+===END===
+
+===ADV-FB-014===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-07 to 01-20]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+
+When our rights are under attack, it's even more important to know what those rights are so you can assert them, document violations, and then pursue justice if they're violated. Learn what you can do when encountering ICE.
+If ICE is at your door:
+1. You have the right to keep your door closed and to remain silent.
+2. You have a right to ask to see a warrant signed by a judge.
+3. If ICE does not have a warrant signed by a judge, you can ask them to leave.
+If ICE stops you on the street:
+1. Remember, stay calm and ask, "Am I free to go?"
+2. If they say yes, walk away and say: "I do not want to answer any questions."
+3. If they say no, say: "I do not want to answer any questions. I want to speak to a lawyer."
+Learn more about our Know Your Rights materials on our website.
+===END===
+
+===ADV-FB-015===
+[Organization: The Advocates for Human Rights]
+[Type: Legal-Service (LS)]
+[Platform: Facebook]
+[Date: ~2026-01-14 to 01-22]
+[Frame1: F5] [Frame2: F7] [Tone1: T6] [Tone2: T4] [TPUB: P4] [CTA: CTA5] [Role: R5]
+
+Last week, while reeling from the escalation of DHS violence in our communities, The Advocates and more than 400 other organizations demanded that Congress not hand any further blank checks to DHS for its lawless, violent, short-sighted, and costly operations.
+Join us! Congress is considering additional appropriations this week and needs to hear from concerned individuals about how we want our taxpayer funds prioritized
+===END===
+
+================================================================================
+# ARR FACEBOOK UNITS
+================================================================================
+
+===ARR-FB-001===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-28 to 02-10]
+[Frame1: F2] [Frame2: F6] [Tone1: T5] [Tone2: T3] [TPUB: P5] [CTA: CTA0] [Role: R4]
+[Note: Anonymous refugee community member reflection. Identifying details changed for anonymity.]
+
+A reflection from a refugee neighbor:
+Today, the weather in our city is extremely cold, and yet many people from different religions and backgrounds came to the streets to protest. They protested against the use of force, actions against immigrants, and unfair treatment of people who do not "look American."
+Since these protests began, serious and painful events have happened. A woman and a man were shot and killed by federal officers while standing up for immigrants and speaking out.
+The city is still under heavy security and feels almost like a military zone. But the people are not giving up. They continue to speak out and respond.
+As an immigrant, I want to say something important. My community and I are deeply grateful to the American people. Since the arrests started, many U.S. citizens have shown real kindness and courage. They are helping immigrant families by sharing free food, taking children to school, and offering support so families can stay safe inside their homes.
+We, as immigrants, truly feel this support. We enjoy living among people who care about justice, humanity, and the rule of law. This support gives us hope and strength during very difficult times.
+These events remind us that informed people, respect for the law, and shared responsibility can stop harmful policies. The people of this country show great social and political maturity. Their kindness is not just words, it is real action.
+**identifying details have been changed for the sake of maintaining anonymity**
+===END===
+
+===ARR-FB-002===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-15 to 03-15]
+[Frame1: F3] [Frame2: F6] [Tone1: T5] [Tone2: T2] [TPUB: P5+P6] [CTA: CTA0] [Role: R2]
+
+In St. Cloud, food and grocery support was delivered to 40 refugee families affected by Operation PARRIS over the past 2 months. A special thanks to @hopecovmn for their invaluable assistance.
+===END===
+
+===ARR-FB-003===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-01 to 03-01]
+[Frame1: F3] [Frame2: F2] [Tone1: T3] [Tone2: T5] [TPUB: P5+P6] [CTA: CTA0] [Role: R5+R6]
+
+Arrive's Executive Director of Programs shared about the effects of Operation PARRIS on lawfully resettled refugee families in Minnesota as part of a roundtable with World Relief last month.
+Watch the full townhall here: [video link]
+===END===
+
+===ARR-FB-004===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-02-27]
+[Frame1: F1] [Frame2: F2] [Tone1: T2] [Tone2: T5] [TPUB: P1+P5] [CTA: CTA0] [Role: R6]
+[Note: Feb 27 preliminary injunction announcement. Cross-org: ADV-FB-004 same event.]
+
+Good News! A new federal ruling prohibits the detention of refugees in Minnesota. Swipe ahead to read excerpts of the Judge's opinion on the U.S.'s commitment to refugees.
+
+[IMAGE — U.S. District Judge quote]:
+"In the Refugee Act, this Nation extended a helping hand to those escaping persecution. We made a simple promise: pass the vetting, follow the law, and you will be given a chance at a new beginning in safety. That promise was not symbolic. It was concrete. It meant the opportunity to work, to worship, to raise children without fear, and to build a future under the protection of American law. Stability — not more fear — was the commitment."
+-U.S. District Judge
+===END===
+
+===ARR-FB-005===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-02-06 to 02-09]
+[Frame1: F3] [Frame2: F4] [Tone1: T1] [Tone2: T5] [TPUB: P1+P5] [CTA: CTA0] [Role: R6]
+[Note: Part of recurring weekly update series unique to Arrive in corpus.]
+
+Week 4 Update on lawfully present refugees being targeted in Minnesota through Operation PARRIS.
+
+[IMAGE TEXT]:
+It's been 4 weeks since Operation PARRIS began targeting 5,600 lawfully present refugees in Minnesota.
+It is unclear how much longer refugees will be subjected to fear and hardship.
+===END===
+
+===ARR-FB-006===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-15 to 02-10]
+[Frame1: F3] [Frame2: F6] [Tone1: T4] [Tone2: T5] [TPUB: P3+P5] [CTA: CTA2+CTA5] [Role: R5]
+[Note: 6-slide carousel. Names IRAP, Advocates, ILCM as partner legal orgs.]
+
+[CAROUSEL — 6 slides]
+Slide 1: 7 ways to stand with our refugee neighbors — SWIPE FOR ACTION STEPS
+
+Slide 2: WAYS TO STAND WITH OUR REFUGEE NEIGHBORS
+Use your voice
+Keep sharing with your friends and family about refugees and their experiences. Contact members of Congress asking for their support of our refugee neighbors.
+arriveministries.org/advocate
+
+Slide 3: WAYS TO STAND WITH OUR REFUGEE NEIGHBORS
+Reach out
+to your refugee and immigrant neighbors. Check-in on them and offer your support by bringing a warm meal, needed items, or groceries.
+
+Slide 4: WAYS TO STAND WITH OUR REFUGEE NEIGHBORS
+Make a donation
+Our refugee neighbors belong fund assists refugee families with essentials, legal support, and other emerging needs.
+arriveministries.org/donate
+
+Slide 5: WAYS TO STAND WITH OUR REFUGEE NEIGHBORS
+Support immigrant businesses
+Buy groceries and meals from local grocery stores, restaurants, and other businesses.
+
+Slide 6: WAYS TO STAND WITH OUR REFUGEE NEIGHBORS
+Support other legal resources
+that are offering pro-bono legal support to refugees.
+International Refugee Assistance Project
+Advocates for Human Rights
+Immigration Law Center of MN
+Mid MN Legal Aid
+===END===
+
+===ARR-FB-007===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: ~2026-01-09 to 01-25]
+[Frame1: F2] [Frame2: F1] [Tone1: T6] [Tone2: T5] [TPUB: P5] [CTA: CTA0] [Role: R4]
+
+Refugees come to the United States through a legal, highly vetted process.
+They undergo years of screening before they are ever allowed to arrive. Yet today, refugee families are being detained and forced to relive the persecution and fleeing experience they survived - without due process.
+Re-interviewing and arresting refugees who followed the law doesn't make us safer. It re-inflicts harm on people who came here seeking protection.
+Refugees deserve dignity, due process, and protection - not detention.
+===END===
+
+===ARR-FB-008===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-01-09 to 01-12]
+[Frame1: F3] [Frame2: F2] [Tone1: T1] [Tone2: T5] [TPUB: P3+P5] [CTA: CTA3+CTA5] [Role: R3+R4]
+[Note: First-response PARRIS post. DATE CONFIRMED Jan 9-12. Unique faith-based CTA: 'pray'.]
+
+Arrive Ministries clients with refugee status are being detained.
+Since Friday, ICE has been detaining individuals and families with refugee status. Our country vetted them, invited them, and told them they could call the U.S. "home." These families fled war and religious persecution in search of safety.
+We are horrified by what is transpiring in our community and the trauma it is inflicting on our clients and friends.
+We need you to speak out, support our neighbors, and pray.
+===END===
+
+===ARR-FB-009===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-01-09 to 01-12]
+[Frame1: F3] [Frame2: F2] [Tone1: T5] [Tone2: T1] [TPUB: P5] [CTA: CTA0] [Role: R3]
+[Note: Companion post to ARR-FB-008. DATE CONFIRMED Jan 9-12.]
+
+Families are being separated, parents are missing work, and kids are missing school. Each day we learn of new refugee cases that have been detained, with many being transferred out of state for reinterviewing. This is happening to clients of Arrive Ministries from Asia, Europe, Africa, and Latin America. These families went through an extensive vetting process before they were invited by the U.S. to resettle here. We are broken by what is transpiring in our community and the trauma it is inflicting on our clients and friends.
+===END===
+
+===ARR-FB-010===
+[Organization: Arrive Ministries]
+[Type: Direct-Service (DS)]
+[Platform: Facebook]
+[Date: 2026-01-09 to 01-12]
+[Frame1: F1] [Frame2: NONE] [Tone1: T3] [Tone2: T2] [TPUB: P1] [CTA: CTA1] [Role: R6]
+[Note: 2 of 4 carousel slides captured. Third post in same-day Jan 9-12 cluster with ARR-FB-008/009.]
+
+Know Your Rights
+Read more about your rights when interacting with ICE (available in other languages):
+
+[CAROUSEL — 2 of 4 slides captured]
+Slide 1: KNOW YOUR RIGHTS
+You have the right to remain silent.
+You can say "I am exercising my right to remain silent under the 5th amendment."
+
+Slide 2: KNOW YOUR RIGHTS
+You have the right to ask for an attorney.
+You can say "I refuse to answer questions or sign documents without speaking to a lawyer first."
+
+[Slides 3 and 4 not captured]
+===END===
+
+================================================================================
+[END OF BATCH 2 — ILCM-FB, ADV-FB, ARR-FB units]
+[Additional units (KOM, ICOM, Unidos MN) will be appended upon collection]
+================================================================================

@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Large outputs
+*.zip
+
+# Keep all data and document files

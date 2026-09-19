@@ -2,7 +2,7 @@
 
 This document defines the organization-level registry used to construct and audit the Twin Cities immigrant/refugee nonprofit universe.
 
-The master sampling frame is not the final analytical sample. It retains eligible, uncertain, excluded, inactive, and duplicate organizations so that sampling decisions are reproducible.
+The master sampling frame is not the final analytical sample. It retains discovered, eligible, uncertain, excluded, inactive, and duplicate organizations so that sampling decisions are reproducible.
 
 ## Identification fields
 
@@ -11,14 +11,56 @@ The master sampling frame is not the final analytical sample. It retains eligibl
 | `org_id` | string | Permanent study identifier, e.g. `TC001` |
 | `organization_name` | string | Current official organization name |
 | `alternate_name` | string | Acronym, former name, or common alternative name |
-| `parent_organization` | string | Parent entity if organization is a program/chapter |
+| `parent_organization` | string | Parent entity if organization is a program/chapter/collaboration |
 | `legal_entity_name` | string | Legal nonprofit name if different from public-facing name |
+| `organizational_form` | categorical | `nonprofit`, `community_based_org`, `faith_based_org`, `legal_aid_org`, `coalition_network`, `program`, `collaboration`, `chapter`, `other`, `unknown` |
+
+## Discovery fields
+
+These fields document **how an organization entered the universe**. Discovery is separate from later verification.
+
+| Field | Type | Description |
+|---|---|---|
+| `discovery_status` | categorical | `seed_list`, `newly_discovered`, `snowball_discovered`, `duplicate_candidate`, `not_yet_reviewed` |
+| `discovery_date` | date | Date first added to the master universe |
+| `discovery_source_primary` | categorical | Main discovery-source category |
+| `discovery_source_primary_name` | string | Specific directory, report, network, search, or referral name |
+| `discovery_source_primary_url` | URL | URL for the discovery source |
+| `discovery_source_secondary` | categorical/string | Optional second discovery-source category |
+| `discovery_source_secondary_name` | string | Optional second source name |
+| `discovery_source_secondary_url` | URL | Optional second source URL |
+| `discovery_notes` | string | Why the organization was added / context for discovery |
+
+### Discovery-source categories
+
+Use one or more of the following controlled categories:
+
+- `STATE_GOV` — Minnesota state government directories/program lists (e.g., DHS)
+- `LOCAL_GOV` — county/city/public-service directories
+- `NONPROFIT_RESEARCH` — Wilder or comparable nonprofit landscape research
+- `IMMIGRANT_RIGHTS_NETWORK` — immigrant-defense/rights coalitions and member networks
+- `LEGAL_DIRECTORY` — immigration/legal-service directories
+- `REFUGEE_RESETTLEMENT_DIRECTORY` — resettlement-provider directories
+- `FAITH_NETWORK` — church, mosque, synagogue, interfaith, or faith-coalition directories
+- `ETHNOCULTURAL_DIRECTORY` — culturally specific/community organization directories
+- `FOUNDATION_FUNDER_DIRECTORY` — foundation/grantee directories
+- `COMMUNITY_RESOURCE_DIRECTORY` — nonprofit/community resource lists
+- `OFFICIAL_ORG_SITE` — organization discovered from another organization's official links/resources
+- `NEWS_MEDIA` — reputable local/news coverage identifying relevant organizations
+- `ACADEMIC_LITERATURE` — scholarly research identifying organizations
+- `WEB_SEARCH` — systematic search-engine discovery
+- `SOCIAL_MEDIA_SEARCH` — systematic platform-based discovery
+- `SNOWBALL` — discovered through links, coalition partners, referrals, or named collaborators
+- `RESEARCHER_KNOWN` — known to researcher before systematic search; must later be independently verified
+- `OTHER` — describe in notes
+
+Discovery-source categories do not establish eligibility by themselves.
 
 ## Sampling and eligibility fields
 
 | Field | Type | Description |
 |---|---|---|
-| `registry_status` | categorical | `eligible`, `probably_eligible`, `excluded`, `inactive`, `duplicate`, `unknown` |
+| `registry_status` | categorical | `discovered_unverified`, `eligible`, `probably_eligible`, `excluded`, `inactive`, `duplicate`, `unknown` |
 | `analytical_sample_status` | categorical | `included`, `excluded`, `pending`, `not_assessed` |
 | `exclusion_reason` | string | Required when excluded/inactive/duplicate |
 | `status_notes` | string | Short rationale for uncertain or complex cases |
@@ -105,14 +147,16 @@ Store URLs here only after confirming they are official organizational accounts.
 | `scrape_feasibility` | categorical | `high`, `medium`, `low`, `manual_only`, `unknown` |
 | `scrape_notes` | string | Technical/platform access notes |
 
-## Source and provenance fields
+## Verification and provenance fields
+
+Discovery sources explain how the organization was found. Verification sources establish facts about the organization.
 
 | Field | Type | Description |
 |---|---|---|
 | `source_1_type` | string | official site, DHS, directory, coalition, etc. |
-| `source_1_url` | URL | First evidence source |
-| `source_2_type` | string | Independent second evidence source |
-| `source_2_url` | URL | Second evidence source |
+| `source_1_url` | URL | First verification source |
+| `source_2_type` | string | Independent second verification source |
+| `source_2_url` | URL | Second verification source |
 | `source_3_type` | string | Optional third source |
 | `source_3_url` | URL | Optional third source |
 | `verification_date` | date | Most recent registry verification |
@@ -153,3 +197,5 @@ Store URLs here only after confirming they are official organizational accounts.
 6. Excluded organizations remain in the master sampling frame.
 7. The final analytical sample is derived from this registry; it is not maintained as a separate hand-curated list without provenance.
 8. Every meaningful sampling decision should be supported by evidence and a verification date.
+9. Discovery and verification must remain conceptually separate: being found in a directory does not by itself prove eligibility.
+10. Do not assign an organization to the final analytical sample until discovery, deduplication, and eligibility review are complete.

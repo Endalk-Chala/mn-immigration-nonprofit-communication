@@ -1,0 +1,4 @@
+org_id,organization,website_items_collected,current_website_status,completed_sections,partial_or_blocked_sections,next_collection_priority
+TC041,International Institute of Minnesota,24,substantial_but_reconciliation_needed,"news archive substantially collected","LinkedIn partial; Facebook/Instagram/YouTube/X not complete","reconcile website pagination; then social history"
+TC074,COPAL,11,news_archive_complete_other_sections_partial,"news/press archive complete","events/resources incomplete; Facebook/Instagram/X blocked; YouTube/LinkedIn partial","finish events/resources; then document platform access limits"
+TC075,Unidos MN,16,partial,"media/news and event items collected in part","event archive still being reconciled; social channels not complete","close Feb-March event-chain gaps; verify media archive boundaries; then social history"

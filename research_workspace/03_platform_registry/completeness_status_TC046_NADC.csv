@@ -1,0 +1,3 @@
+org_id,organization,platform_or_section,canonical_url,status,verified_item_count,study_window_start,study_window_end,notes
+TC046,New American Development Center,website,https://www.nadcmn.org/,partial_archive,0,2025-11-01,2026-03-31,"Public web retrieval did not surface a reliably enumerable dated Nov. 1, 2025-Mar. 31, 2026 website communication archive in this pass. Do not interpret zero verified dated items as silence."
+TC046,New American Development Center,website_current_pages,https://www.nadcmn.org/,undated_current_content,0,2025-11-01,2026-03-31,"Current organization/service information may be available, but no defensible study-window publication dates were recovered."

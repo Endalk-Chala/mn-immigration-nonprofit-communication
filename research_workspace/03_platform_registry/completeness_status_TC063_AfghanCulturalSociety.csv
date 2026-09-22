@@ -1,0 +1,3 @@
+org_id,organization,platform_or_section,canonical_url,status,verified_item_count,study_window_start,study_window_end,notes
+TC063,Afghan Cultural Society,website_updates,https://afghanculturalsociety.org/updates,bounded_no_dated_posts,0,2025-11-01,2026-03-31,"Official Updates archive jumps from Oct. 2, 2025 Open House to May 19, 2026 May Events, so no dated Updates posts fall inside the study window."
+TC063,Afghan Cultural Society,website_cultural_programs,https://afghanculturalsociety.org/art-and-cultural-programs,partial_archive,0,2025-11-01,2026-03-31,"Past-events section includes Shab-e-Yalda 2025, but the current page does not expose a defensible event date in this pass. Do not infer silence; retain as unresolved dated-event candidate for later reconciliation."

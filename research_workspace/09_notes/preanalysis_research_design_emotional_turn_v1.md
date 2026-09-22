@@ -12,6 +12,8 @@ The communication corpus will be collected as a census of every publicly accessi
 
 Website and social-media items will be collected before emotional coding. Routine service communication, cultural communication, fundraising, organizational updates, legal advocacy, crisis communication, events, resources, newsletters, announcements, videos, and other dated public communication will remain in the corpus.
 
+Social-media collection should include as many active official organizational channels as can be defensibly verified, including Facebook, Instagram, LinkedIn, YouTube, X/Twitter, TikTok, and other public platforms where organizations maintain official accounts. Each platform exposure should remain a separate observation even when substantially similar content appears elsewhere.
+
 Zero retrieved items will not be interpreted as organizational silence unless the relevant archive is demonstrably complete. Blocked, incomplete, undated, or unenumerable archives will be documented as retrieval limitations or partial archives.
 
 ## Substantive research questions
@@ -47,7 +49,24 @@ The strongest comparison is within-organization and, where possible, within-even
 
 Potential contrasts include whether websites privilege institutional authority, formal statements, legal information, resources, permanence, and reassurance, while social media privilege immediacy, relational communication, visual expression, solidarity, mobilization, and stronger emotional intensity. These are propositions to test, not assumptions.
 
-### RQ5: Communication strategy and public response
+### RQ5: Matched-message adaptation across channels
+When an organization communicates the same underlying event, announcement, resource, campaign, crisis update, or call to action across its website and one or more social-media platforms, how does the message change across channels?
+
+Matched-message analysis should examine changes in:
+- headline or caption framing;
+- emotional vocabulary and intensity;
+- appraisal of threat, injustice, care, solidarity, or resilience;
+- calls to action;
+- immediacy and urgency;
+- visual and audiovisual presentation;
+- audience address and relational language;
+- amount of contextual or legal information;
+- personalization, testimonial, or community voice;
+- temporal sequencing across channels.
+
+A matched message is not assumed to be textually identical. It may be linked by a shared event, announcement, URL, image, video, campaign, named initiative, date proximity, or clearly corresponding substantive content. Confidence in each match should be documented rather than inferred casually.
+
+### RQ6: Communication strategy and public response
 How are emotional appraisals connected to strategic communication functions and proposed forms of public action or coping?
 
 The analysis should examine whether different emotional repertoires are associated with different action orientations such as protest, contacting officials, donating, seeking legal assistance, attending events, staying informed, using services, supporting neighbors, or collective solidarity.
@@ -158,6 +177,7 @@ At minimum:
 - LinkedIn;
 - YouTube;
 - X/Twitter;
+- TikTok;
 - other active public platforms where included by protocol.
 
 ## Main comparison strategy
@@ -169,8 +189,9 @@ The analysis should proceed in layers:
 3. Build weekly temporal series across the study period.
 4. Compare organizations by role and advocacy-service orientation.
 5. Compare platforms within the same organizations.
-6. Conduct matched-event comparisons where the same event or issue is communicated across multiple channels.
-7. Use qualitative textual interpretation to explain the mechanisms underlying quantitative patterns.
+6. Conduct matched-message and matched-event comparisons where the same underlying communication appears across website and one or more social channels.
+7. Compare adaptation within matched sets: wording, emotional intensity, visuals, urgency, calls to action, audience orientation, and timing.
+8. Use qualitative textual interpretation to explain the mechanisms underlying quantitative patterns.
 
 ## Illustrative pattern to test, not assume
 
@@ -183,7 +204,19 @@ This pattern must not guide collection or be treated as a coding default. The fu
 
 ## Cross-platform analytical principle
 
-Platform effects should be tested primarily through within-organization comparisons. Where possible, matched-event analysis should compare the same organization discussing the same event across its website and one or more social platforms. This will help distinguish platform differences from differences in organizational mission or audience.
+Platform effects should be tested primarily through within-organization comparisons. Where possible, matched-message or matched-event analysis should compare the same organization discussing the same underlying communication across its website and one or more social platforms. This will help distinguish platform differences from differences in organizational mission or audience.
+
+Cross-platform duplicates should not be discarded as ordinary duplicates. Each platform occurrence represents a distinct public exposure and should remain in the corpus. Related items should instead be linked through `crosspost_group_id` or a later `matched_message_id`. The analysis can then distinguish between (a) identical reposting, (b) lightly adapted cross-posting, and (c) substantial platform-specific reframing of the same underlying message.
+
+For matched-message work, later processed data should preserve where possible:
+- a shared match identifier;
+- match confidence (high/medium/low or equivalent);
+- source and destination platforms;
+- whether the website item preceded, followed, or appeared on the same day as social posts;
+- textual similarity;
+- shared URLs, titles, images, videos, or campaign names;
+- whether the social post links directly to the website item;
+- whether emotional framing or action orientation changes across versions.
 
 ## Temporal analytical principle
 
@@ -195,16 +228,17 @@ Potential methods may include descriptive time-series visualization, interrupted
 
 The primary unit of analysis is the discrete public communication item. Each distinct dated webpage, article, press release, event page, newsletter, announcement, video, or social-media post is one observation unless the collection protocol specifies a documented exception.
 
-Cross-posts should remain identifiable through crosspost_group_id or an equivalent reconciliation field so later analyses can decide whether to treat them as separate platform exposures or as duplicated content.
+Cross-posts should remain identifiable through crosspost_group_id or an equivalent reconciliation field so later analyses can decide whether to treat them as separate platform exposures or as duplicated content. Matched messages should likewise be linkable without collapsing platform-specific observations.
 
 ## Data-quality safeguards before analysis
 
 Before emotional coding begins:
 - finish the website census;
-- finish the social-media census;
+- finish the social-media census across all defensibly identifiable official channels;
 - document archive completeness and retrieval limitations;
 - reconcile raw -> interim -> processed data;
 - deduplicate accidental duplicate captures while preserving deliberate cross-platform duplication;
+- create and validate crosspost/matched-message identifiers;
 - normalize organization IDs, dates, URLs, content types, and platform labels;
 - preserve source text or sufficient archived content for reproducible coding where legally and technically feasible;
 - create a dated external-event chronology separately from the communication corpus.
@@ -218,6 +252,8 @@ The emotional codebook should be piloted on a stratified sample spanning organiz
 The intended contribution is not simply that nonprofits use emotional language. The study asks when, how, and for what strategic purposes organizations mediate emotion for publics, and whether that mediation changes across institutional roles, moments of heightened crisis, and platform environments.
 
 The potential theoretical claim is that emotion in public relations is relational and situated: it emerges from the interaction of organizational role, situational appraisal, temporal context, audience relationship, and platform affordances. Organizations may therefore perform distinct forms of emotional mediation that orient publics toward mobilization, reassurance, care, coping, solidarity, or other forms of response.
+
+Matched-message evidence can strengthen this claim by showing whether emotional mediation changes when the underlying substantive message is held relatively constant and only the communication channel changes.
 
 ## Separation of collection and analysis
 

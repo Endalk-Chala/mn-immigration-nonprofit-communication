@@ -25,46 +25,41 @@ Literacy Minnesota previously contained three month-only educator-resource recor
 
 This correction preserves the no-invented-dates rule for weekly temporal analysis.
 
-## Companion completeness files still to add
+Volunteer Lawyers Network likewise has month-only study-window records preserved separately in:
 
-The following 27 organizations already have website raw data but do not yet have a one-to-one companion completeness-status file. These are documentation gaps only, not substantive data-collection gaps:
+`research_workspace/05_data/raw/communication_candidates_batch_49_VLN_month_only_unresolved.csv`
 
-- TC002 Cedar Riverside Adult Education Collaborative
-- TC003 Centro Tyrone Guzman
-- TC008 Literacy Minnesota
-- TC015 Aeon
-- TC016 Bridging
-- TC019 Esperanza United
-- TC021 IAFR Jonathan House
-- TC025 Twin Cities Habitat for Humanity
-- TC028 ACER
-- TC030 African Development Center of Minnesota
-- TC031 African Economic Development Solutions (AEDS)
-- TC035 Arrive Ministries
-- TC036 Catholic Charities Twin Cities
-- TC037 CommonBond Communities
-- TC038 CLUES
-- TC042 Isuroon
-- TC044 Minnesota Council of Churches
-- TC047 Oromo Community of Minnesota
-- TC049 PRISM
-- TC050 Project for Pride in Living
-- TC054 Alight
-- TC055 CAPI USA
-- TC056 Karen Organization of Minnesota
-- TC064 The Advocates for Human Rights
-- TC065 Volunteer Lawyers Network
-- TC076 Minnesota Interfaith Coalition on Immigration (ICOM)
-- TC077 ISAIAH
+Keystone Community Services has two study-window newsletters whose exact publication dates are unresolved and preserved separately in:
 
-These should be repaired before final raw-to-interim consolidation, but they do not require reopening substantive website collection unless new archive evidence appears.
+`research_workspace/05_data/raw/communication_candidates_batch_40_Keystone_web_window_undated.csv`
+
+These unresolved-date records remain available for qualitative or month-level analysis but are not assigned artificial dates for weekly time-series analysis.
+
+## Companion completeness files
+
+The one-to-one completeness-status companion-file cleanup is complete for the core TC001–TC084 sampling frame. The 27 organizations previously identified as having raw website data but no companion completeness record now have corresponding completeness-status files.
+
+The companion records preserve exact-dated item counts while marking archives `partial_archive` wherever the full study-window website archive could not be demonstrated exhaustive. This means a zero-item organization must not be interpreted as communicatively silent unless its archive is demonstrably complete.
 
 ## Website-phase decision rule
 
-The core website census is substantively complete for TC001–TC084 as of 2026-09-22. Remaining website work is quality-control and documentation cleanup, not discovery of unaudited core organizations.
+The core website census is substantively and administratively complete for TC001–TC084 as of 2026-09-22, subject to ordinary downstream QC, deduplication, and normalization.
 
 No organization with zero retrieved dated items should be interpreted as silent unless its archive is demonstrably complete. Partial-archive and retrieval-limitation statuses must remain visible in analysis.
 
+## Website baseline locked for next phase
+
+The website phase is now treated as the baseline corpus for cross-platform comparison. Do not reopen organizations merely because their archive is partial unless new first-party archive evidence is discovered during later reconciliation.
+
+Before emotion or enforcement-relevance coding:
+
+1. preserve exact-dated and unresolved-date records separately;
+2. reconcile accidental duplicates while preserving deliberate cross-platform duplication;
+3. normalize organization IDs, platform labels, dates, URLs, and content types;
+4. preserve archive-completeness metadata alongside item-level data.
+
 ## Next phase
 
-After companion-file cleanup, proceed to the social-media census using the same full-census inclusion rule. Website and social data should then be reconciled, cross-posts linked, exact-date versus month-only records separated, and the combined corpus normalized before emotion or enforcement-relevance coding begins.
+Proceed to the social-media census using the same full-census inclusion rule and the same study window, 2025-11-01 through 2026-03-31. Collect all publicly accessible organization communications from active sampled channels without filtering by immigration enforcement, emotion, political content, perceived importance, or relevance.
+
+After social-media collection, reconcile website and social data, assign crosspost group identifiers where defensible, preserve platform-specific exposures, and normalize the combined corpus before emotion, appraisal, action-orientation, or enforcement-relevance coding begins.

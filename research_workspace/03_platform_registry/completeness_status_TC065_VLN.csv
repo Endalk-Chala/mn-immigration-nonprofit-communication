@@ -1,0 +1,2 @@
+org_id,organization,platform_or_section,canonical_url,status,verified_item_count,study_window_start,study_window_end,notes
+TC065,Volunteer Lawyers Network,website,https://www.vlnmn.org/,partial_archive,3,2025-11-01,2026-03-31,"Three exact-dated study-window event items were recovered. Additional month-only study-window records are preserved separately in communication_candidates_batch_49_VLN_month_only_unresolved.csv and are excluded from weekly analysis unless exact dates are resolved."

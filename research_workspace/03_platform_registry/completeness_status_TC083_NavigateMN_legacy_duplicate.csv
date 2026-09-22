@@ -1,0 +1,2 @@
+org_id,organization,platform_or_section,canonical_url,status,verified_item_count,study_window_start,study_window_end,notes
+TC083,Navigate MN,entity_resolution,https://unidos-mn.org/,legacy_duplicate,0,2025-11-01,2026-03-31,"Navigate MN is a legacy organizational identity that evolved into Unidos MN. Current study-period communications are therefore captured under TC075 Unidos MN rather than duplicated under TC083. This record is excluded from separate corpus collection to prevent double counting."

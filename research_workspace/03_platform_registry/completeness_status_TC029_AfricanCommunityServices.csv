@@ -1,0 +1,3 @@
+org_id,organization,platform_or_section,canonical_url,status,verified_item_count,study_window_start,study_window_end,notes
+TC029,African Community Services,website,https://africancs.org/,partial_archive,0,2025-11-01,2026-03-31,"Official site exposes current services/about/contact pages but no reliably enumerable dated news/events archive for the study window. Do not treat zero recovered dated items as organizational silence."
+TC029,African Community Services,website_services,https://africancs.org/services/,undated_current_content,0,2025-11-01,2026-03-31,"Current services page documents refugee employment, family stability, referral, and immigration/benefits navigation services but provides no study-window publication date."

@@ -1,94 +1,138 @@
-# Strategic Communication and Immigration Enforcement
+# Affective Intermediation in Twin Cities Nonprofit Communication
 
-## Twin Cities nonprofit communication during federal immigration enforcement
+## Organizational emotion, public uptake, circulation, and action during immigration enforcement
 
-**Status:** Ongoing research project · Presented at AEJMC 2026  
+**Status:** Active research project · data collection substantially complete · reliability pilot and full coding next  
 **Author:** Endalkachew H. Chala  
-**Study period:** October 1, 2025–March 26, 2026
+**Study period:** November 1, 2025–March 31, 2026  
+**Primary analytical universe:** 114 eligible/probably eligible organizational, program, and network units
 
-## Study overview
+## Project overview
 
-This repository contains data, code, protocols, and documentation for a two-study project examining how nonprofit organizations serving immigrant and refugee communities in the Twin Cities communicated during a period of intensified federal immigration enforcement.
+This repository contains the data, sampling frame, protocols, platform audit, coding framework, and reproducible analysis workflow for a large-scale study of nonprofit and community communication during intensified immigration enforcement in the Twin Cities.
 
-The project connects nonprofit public relations, civil-society communication, framing, media relations, and institutional access. It asks both how organizations communicated directly with their publics and how those organizations appeared in local news coverage.
+The project develops **affective intermediation** as a framework for examining how organizations interpret crisis, communicate emotion and appraisal, connect publics to resources and action, and how those messages are subsequently taken up, recirculated, contested, or converted into material or civic action.
 
-## Study 1: Nonprofit digital communication
+The core analytical sequence is:
 
-Study 1 analyzes website and Facebook communication from seven Twin Cities organizations across legal-service, direct-service, and advocacy-oriented categories.
+`crisis → organizational appraisal → affective production → public uptake → affective circulation → possible conversion/action`
 
-The analysis examines:
+The project therefore analyzes four linked empirical layers:
 
-- dominant communication frames;
-- tone;
-- target publics;
-- calls to action;
-- projected organizational roles; and
-- cross-platform differences between websites and Facebook.
+1. **Affective production** — what organizations communicate.
+2. **Affective uptake** — how publics respond through visible comments and replies.
+3. **Affective circulation** — how messages travel through shares, reposts, tagging, and cross-platform movement.
+4. **Affective conversion** — observable movement toward helping, donating, volunteering, attending, protesting, seeking services, sharing resources, or other forms of coordination/action.
 
-The project uses a structured codebook, a two-gate relevance screening protocol, and intercoder-reliability testing before full analysis.
+## Sampling frame
 
-## Study 2: Media relations audit
+The consolidated discovery frame contains **138 raw records**.
 
-Study 2 examines how the same organizations appeared in local media during the enforcement period. It maps organizational visibility, source roles, earned-media patterns, and the extent to which nonprofit framing carries into news coverage.
+Screening produced:
 
-The media sample includes a mix of nonprofit, public, legacy, digital, and broadcast outlets in the Twin Cities.
+- **91 eligible** units
+- **23 probably eligible / verification-needed** units
+- **22 excluded** records
+- **2 duplicate / alias / program-merge** records
 
-## Repository structure
+The operational communication-census universe is therefore **114 independent eligible/probably eligible units**.
 
-```text
-mn-immigration-nonprofit-communication/
-├── data/
-│   ├── raw/
-│   ├── coded/
-│   └── codebook/
-├── analysis/
-│   ├── tables/
-│   └── figures/
-├── protocols/
-├── paper/
-└── study2_media_audit/
-    ├── scrapers/
-    ├── data/
-    ├── analysis/
-    └── protocols/
-```
+Important merge rules include:
 
-## Methods and tools
+- Navigate MN is treated as the former name/alias of Unidos MN, not as a separate organization.
+- Monarca is treated as a Unidos MN program/initiative rather than an independent organizational unit.
 
-The project combines quantitative content analysis, media-relations auditing, structured manual coding, and Python-assisted data collection.
+Communication availability was never used as an eligibility criterion. An organization may belong in the sampling universe even when historical platform content is incompletely retrievable.
 
-Key tools include:
+## Data architecture
 
-- Python (`requests`, `BeautifulSoup`, `pandas`, `openpyxl`);
-- structured coding protocols;
-- chi-square tests and Cramér’s V;
-- intercoder reliability using Krippendorff’s alpha; and
-- comparative cross-platform analysis.
+The project includes:
 
-## Research status
+- organization-level eligibility and sampling-frame data;
+- website communication items;
+- social-media communication items;
+- social-platform account verification and archive-status data;
+- cross-platform matched-message sets;
+- post-level engagement snapshots;
+- anonymized visible comment/reply interactions;
+- recirculation evidence;
+- external event chronology;
+- coding templates and reliability pilot materials;
+- reproducible dataset-building, validation, and analysis scripts.
 
-The project was presented at **AEJMC 2026** and remains an active research project. Repository materials should therefore be read as working research infrastructure rather than a final archival package.
+### Important observability rule
 
-Some raw materials may be withheld or restricted where redistribution would raise privacy, copyright, platform-terms, or participant-protection concerns.
+Website communication is comparatively well observed. Historical Facebook, Instagram, X/Twitter, and some other platform archives are uneven and often incomplete. The social corpus is therefore treated as a **bounded public-web recovery with partial historical archives**, not as an exhaustive platform census.
 
-## Research questions
+A verified account with zero recovered historical posts is **not** interpreted as organizational silence.
 
-The project examines whether organizational type is associated with differences in:
+Likewise, hidden engagement is `NA`, not zero.
 
-1. communication frames;
-2. tone;
-3. target publics;
-4. calls to action;
-5. organizational role construction; and
-6. cross-platform framing.
+## Affective intermediation coding
 
-The companion media-relations study asks whether nonprofit frames transfer into earned-media coverage.
+Each organization-owned communication item can be coded for:
+
+- situational appraisal: threat, harm/loss, injustice, uncertainty, responsibility, vulnerability, coping efficacy, collective efficacy, care need, hope/opportunity;
+- emotion intensity on a 0–3 scale: fear, anxiety/uncertainty, anger, moral outrage, grief/sadness, solidarity, care/compassion, empathy, hope, gratitude, pride, reassurance, defiance, urgency, and other emotions;
+- communication function: inform, warn, reassure, regulate fear, mobilize, advocate, provide service, fundraise, build solidarity, generate empathy, moral evaluation, increase efficacy, mourn, document/testify, celebrate, encourage defiance;
+- action orientation and specificity;
+- audience, urgency, legal/service information, and resource provision;
+- public uptake, circulation, and observable conversion-to-action signals.
+
+**Engagement volume is not treated as emotion intensity.** Reactions, comments, shares, reposts, and views are relational/circulation measures; emotional meaning is coded separately from content and interaction.
+
+## Current project status
+
+Broad collection is frozen for analysis. The next substantive stage is:
+
+1. build the analysis-ready corpus;
+2. code the 40-item reliability pilot;
+3. assess reliability and refine/freeze the codebook;
+4. complete full-corpus coding;
+5. merge and validate coding;
+6. run descriptive, temporal, organizational-role, platform, matched-message, uptake, circulation, and conversion analyses;
+7. develop the manuscript around the affective-intermediation model.
+
+## Repository guide
+
+The project grew iteratively, so the deepest working files remain in `research_workspace/` to preserve provenance and avoid breaking existing paths. The repository root now treats those files as the canonical flagship project rather than as a secondary workspace.
+
+Key entry points:
+
+- `research_workspace/01_sampling_frame/` — sampling frame and eligibility screening
+- `research_workspace/02_protocols/` — collection and matched-message protocols
+- `research_workspace/03_platform_registry/` — website/social account verification and archive status
+- `research_workspace/05_data/` — raw, interim, processed, engagement, interaction, and matched-message data
+- `research_workspace/06_codebooks/` — analytical schemas and affective-intermediation codebooks
+- `research_workspace/07_analysis/` — build, validation, reliability, chronology, and analysis scripts
+- `research_workspace/09_notes/` — research design, RQs, hypotheses, and conceptual notes
+
+Top-level guide files are being used as stable entry points while the original paths remain intact for reproducibility.
+
+## Analysis principles
+
+The analysis separates:
+
+- verified primary communication items;
+- unresolved candidates;
+- observed engagement cases;
+- visible public-interaction cases;
+- matched-message cases;
+- excluded or duplicate organizations retained only for auditability.
+
+Primary analyses will distinguish item-weighted from organization-normalized estimates and include robustness checks for sampling status, date precision, matched-message confidence, archive observability, and high-volume organizations.
+
+## Earlier project history
+
+This repository began with a smaller seven-organization nonprofit communication and media-relations design presented at AEJMC 2026. That earlier work is retained as project history and as a methodological precursor, but it no longer defines the repository's primary research identity.
+
+The current flagship project is the 114-unit **Affective Intermediation** study.
 
 ## Citation
 
-Until a final article is published, cite the repository as an ongoing research project:
+Until a final article or dataset release is published, cite the repository as an ongoing research project:
 
-> Chala, Endalkachew H. (2026). *Strategic Communication and Immigration Enforcement: Twin Cities nonprofit communication during federal immigration enforcement*. GitHub research repository. https://github.com/Endalk-Chala/mn-immigration-nonprofit-communication
+> Chala, Endalkachew H. (2026). *Affective Intermediation in Twin Cities Nonprofit Communication: Organizational Emotion, Public Uptake, Circulation, and Action During Immigration Enforcement*. GitHub research repository.
 
 ## Author
 

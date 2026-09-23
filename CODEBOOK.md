@@ -1,4 +1,4 @@
-# Codebook — Affective Intermediation
+# Affective Intermediation in Twin Cities Nonprofit Communication — Codebook
 
 The canonical coding framework is:
 

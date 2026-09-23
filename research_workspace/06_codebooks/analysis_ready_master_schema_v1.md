@@ -49,52 +49,77 @@ This schema defines the final row structure for the analysis-ready communication
 - `role_hybrid_flag` — boolean.
 
 ## Situational appraisal coding
-- `threat_appraisal` — 0/1.
-- `harm_loss_appraisal` — 0/1.
-- `injustice_appraisal` — 0/1.
-- `uncertainty_appraisal` — 0/1.
-- `responsibility_blame_appraisal` — 0/1.
-- `coping_efficacy_appraisal` — 0/1.
-- `collective_efficacy_appraisal` — 0/1.
-- `care_need_appraisal` — 0/1.
-- `opportunity_hope_appraisal` — 0/1.
-- `appraisal_notes` — brief rationale.
+Code each 0/1, with multiple appraisals allowed:
+- `threat_appraisal`
+- `harm_loss_appraisal`
+- `injustice_appraisal`
+- `uncertainty_appraisal`
+- `responsibility_blame_appraisal`
+- `intentionality_appraisal`
+- `norm_violation_appraisal`
+- `vulnerability_appraisal`
+- `controllability_appraisal`
+- `coping_efficacy_appraisal`
+- `collective_efficacy_appraisal`
+- `care_need_appraisal`
+- `opportunity_hope_appraisal`
+- `appraisal_notes`
 
 ## Emotion coding
-Multi-label emotion variables, each 0/1 unless unavailable:
-- `emotion_fear`
-- `emotion_anxiety_uncertainty`
-- `emotion_anger`
-- `emotion_grief_sadness`
-- `emotion_solidarity`
-- `emotion_care_compassion`
-- `emotion_hope`
-- `emotion_gratitude`
-- `emotion_pride`
-- `emotion_urgency`
-- `emotion_reassurance`
-- `emotion_other`
+Each emotion is coded on a 0–3 prominence/intensity scale:
+- `fear_intensity`
+- `anxiety_uncertainty_intensity`
+- `anger_intensity`
+- `moral_outrage_intensity`
+- `grief_sadness_intensity`
+- `solidarity_intensity`
+- `care_compassion_intensity`
+- `empathy_intensity`
+- `hope_intensity`
+- `gratitude_intensity`
+- `pride_intensity`
+- `reassurance_intensity`
+- `defiance_intensity`
+- `urgency_emotion_intensity`
+- `other_emotion_intensity`
+
+Intensity scale:
+- `0` absent
+- `1` low or implicit
+- `2` clearly present / moderate
+- `3` dominant, highly explicit, or central to the item
+
+Derived later rather than manually coded:
+- binary emotion-presence indicators (`*_present = intensity >= 1`)
+- `emotional_repertoire_count`
+- overall intensity alternatives (mean, max, sum, count)
 
 Additional emotion fields:
-- `emotion_present` — 0/1.
 - `emotion_explicitness` — `explicit`, `implicit`, `mixed`, `none`.
-- `emotion_source` — `organization_voice`, `quoted_public`, `client_testimony`, `staff_testimony`, `community_collective`, `other`.
-- `emotion_intensity` — ordinal 0–3: 0 none; 1 low; 2 moderate; 3 high.
-- `emotion_notes` — rationale/quotation fragment kept short.
+- `emotion_source_org` — 0/1.
+- `emotion_source_affected_public` — 0/1.
+- `emotion_source_supporters_public` — 0/1.
+- `emotion_source_quoted_actor` — 0/1.
+- `emotion_notes` — brief rationale; quotation fragments should remain short.
 
 ## Communication function
 Multi-label 0/1 fields:
 - `function_inform`
 - `function_warn`
 - `function_reassure`
+- `function_regulate_fear`
 - `function_mobilize`
 - `function_advocate`
 - `function_provide_service`
 - `function_fundraise`
 - `function_build_solidarity`
+- `function_generate_empathy`
+- `function_moral_evaluation`
+- `function_increase_efficacy`
 - `function_mourn_commemorate`
 - `function_document_testify`
 - `function_celebrate`
+- `function_encourage_defiance`
 - `function_other`
 
 ## Action orientation
@@ -110,6 +135,13 @@ Multi-label 0/1 fields:
 - `legal_information_present` — 0/1.
 - `service_information_present` — 0/1.
 - `resource_link_present` — 0/1.
+
+## Temporal/event variables
+- `event_phase` — `pre_escalation`, `escalation`, `peak`, `sustained_response`, `decline_normalization`, `unknown`.
+- `event_marker_primary` — documented event marker if analytically linked.
+- `event_marker_distance_days` — item-to-event distance where applicable.
+
+Event phases must be assigned from an external documented chronology, never inferred from emotion.
 
 ## Engagement snapshot
 Joined by `item_id` where publicly observable:
@@ -156,12 +188,15 @@ Derived from interaction-level data:
 - `conversion_evidence_level` — `none`, `weak`, `moderate`, `strong`; based on observable interaction only, not inferred intention.
 
 ## Derived analytical fields
-- `emotional_repertoire_count` — number of emotion categories coded present.
+- `emotional_repertoire_count` — number of emotion dimensions with intensity >= 1.
+- `overall_emotion_mean` — mean of nonmissing emotion-intensity variables.
+- `overall_emotion_max` — maximum emotion intensity in item.
+- `overall_emotion_sum` — sum of emotion-intensity variables.
 - `appraisal_count` — number of appraisal categories present.
 - `function_count` — number of communication functions present.
 - `engagement_total_observed` — sum only of metrics actually observed; do not impute hidden values.
-- `enforcement_relevance` — coded later, not used for inclusion.
-- `heightened_enforcement_period` — external chronology-based indicator applied after collection.
+- `enforcement_relevance` — coded after collection, never used for inclusion.
+- `heightened_enforcement_period` — chronology-based indicator applied after collection.
 
 ## Missing-data rules
 - Blank/NA means not observed, not retrievable, or not applicable depending on companion status field.

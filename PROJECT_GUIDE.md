@@ -1,6 +1,6 @@
-# Project Guide — Affective Intermediation
+# Affective Intermediation in Twin Cities Nonprofit Communication — Project Guide
 
-This repository's flagship project is the 114-unit **Affective Intermediation in Twin Cities Nonprofit Communication** study.
+This repository's flagship project is **Affective Intermediation in Twin Cities Nonprofit Communication**.
 
 ## Start here
 
@@ -61,4 +61,4 @@ November 1, 2025–March 31, 2026.
 
 ## Project history
 
-The repository began with a smaller AEJMC 2026 nonprofit communication/media-audit project. That earlier design is preserved as project history and methodological precursor, but the current flagship project is the 114-unit Affective Intermediation study.
+The repository began with a smaller AEJMC 2026 nonprofit communication/media-audit project. That earlier design is preserved as project history and methodological precursor, but the current flagship project is **Affective Intermediation in Twin Cities Nonprofit Communication**.

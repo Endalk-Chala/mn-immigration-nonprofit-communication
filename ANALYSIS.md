@@ -1,4 +1,4 @@
-# Analysis — Affective Intermediation Study
+# Affective Intermediation in Twin Cities Nonprofit Communication — Analysis
 
 The canonical analysis workflow is:
 

@@ -1,4 +1,4 @@
-# Data Guide — Affective Intermediation Study
+# Affective Intermediation in Twin Cities Nonprofit Communication — Data Guide
 
 ## Primary analytical universe
 

@@ -2,7 +2,7 @@
 
 ## Organizational emotion, public uptake, circulation, and action during immigration enforcement
 
-**Status:** Active research project · data collection substantially complete · reliability pilot and full coding next  
+**Status:** Active research project · recovered September 26 network snapshot available · item-level coding and reliability release not yet verified  
 **Author:** Endalkachew H. Chala  
 **Study period:** November 1, 2025–March 31, 2026  
 **Primary analytical universe:** 114 eligible/probably eligible organizational, program, and network units
@@ -81,17 +81,23 @@ Each organization-owned communication item can be coded for:
 
 **Engagement volume is not treated as emotion intensity.** Reactions, comments, shares, reposts, and views are relational/circulation measures; emotional meaning is coded separately from content and interaction.
 
+## Available network data
+
+The completed September 26, 2026 circulation-network exports and figures are now available in [data/network_snapshot_2026-09-26/](data/network_snapshot_2026-09-26/). Read its [data dictionary and limitations](data/network_snapshot_2026-09-26/README.md) before reuse.
+
+The snapshot contains 491 edges: 410 affect–organization ties and 81 organization–media ties. The latter sum to 120 organization–story relations across 29 media outlets. The original GraphML contains 95 nodes (14 affects, 52 organizations, 29 outlets); the R layout contains 94 nodes, omitting organization TC049. Both original exports are preserved, and this difference is documented rather than silently removed.
+
+[View the publication network figure (PDF)](data/network_snapshot_2026-09-26/affective_circulation_network_r_force_publication_v1.pdf)
+
 ## Current project status
 
-Broad collection is frozen for analysis. The next substantive stage is:
+The September 26 working manuscript reports 337 coded items from 44 organizations. That figure describes the communication corpus, not the 114-unit sampling universe or the larger integrated network. The network exports are publicly available; this release does not include the completed item-level coding table, independent reliability results, or the original R rendering script. Those materials must be recovered and checked before claiming full reproducibility of the manuscript.
 
-1. build the analysis-ready corpus;
-2. code the 40-item reliability pilot;
-3. assess reliability and refine/freeze the codebook;
-4. complete full-corpus coding;
-5. merge and validate coding;
-6. run descriptive, temporal, organizational-role, platform, matched-message, uptake, circulation, and conversion analyses;
-7. develop the manuscript around the affective-intermediation model.
+The validation script below checks the recovered exports and generates checksums. It does not rerun the original coding or infer audience emotions or causal frame transmission.
+
+```bash
+python3 scripts/validate_network_snapshot.py
+```
 
 ## Repository guide
 
